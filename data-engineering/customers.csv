@@ -1,0 +1,201 @@
+CustomerID,CustomerName,Email,JoinDate,Location
+C000,,ahowell@example.net,2021-03-03,Los Angeles
+C001,Kevin Griffin,zdaniel@example.net,2023-11-26,SF
+C002,Lisa Smith,woodsamantha@example.com,2024-07-02,San Francisco
+C003,Nicholas Roberts,gallagheranthony@example.net,2021-05-05,LA
+C004,,ipeterson@example.org,2024-04-07,New York
+C005,Connie Harrison,juliegreen@example.net,2023-07-19,LA
+C006,Steven Mooney,scottamanda@example.net,2023-02-21,LA
+C007,Dean Adams,michael75@example.org,2021-06-17,Los Angeles
+C008,Brian Jones,petersondylan@example.com,2024-12-28,Los Angeles
+C009,,deborah36@example.net,2024-08-26,Los Angeles
+C010,Thomas Hernandez,taylorgeorge@example.com,2023-06-23,SF
+C011,Erik Salas,jodymaldonado@example.net,2021-12-20,New York
+C012,Alexandria Jimenez,graycarrie@example.net,2025-01-13,NYC
+C013,Tonya Fuentes,ortizkevin@example.org,2024-07-05,SF
+C014,Karen Fox,iadkins@example.com,2025-01-11,San Francisco
+C015,Michael Larsen,ryanmark@example.net,2024-12-10,NYC
+C016,Tamara Moore,dustindiaz@example.net,2022-08-18,Los Angeles
+C017,Michael Dodson,iwang@example.net,2021-01-09,Los Angeles
+C018,Michael Hansen,mathiscynthia@example.com,2021-05-04,NYC
+C019,Juan Neal,invalid_email,2022-04-06,New York
+C020,,mallorysmith@example.net,2023-07-19,New York
+C021,Danielle Carr,dennislinda@example.com,2022-03-09,San Francisco
+C022,David Owen,mariopeterson@example.com,2023-03-27,San Francisco
+C023,Christian Allen,leslie94@example.com,2022-05-06,San Francisco
+C024,Justin Webb,glennmaurice@example.com,2020-02-11,NYC
+C025,John Wilson,gordonlaurie@example.org,2023-03-22,NYC
+C026,Robert Lewis,gmalone@example.net,2025-01-05,LA
+C027,Angela Jackson,burtonbrian@example.net,2020-07-20,NYC
+C028,Gina Acosta,invalid_email,2020-11-17,New York
+C029,,mcdonaldbrenda@example.net,2022-05-09,Los Angeles
+C030,Katherine Norton,invalid_email,2021-07-12,SF
+C031,Dominic Wilson,rcollins@example.org,2024-07-01,Los Angeles
+C032,Amy Davis,shawngonzales@example.net,2022-11-26,Los Angeles
+C033,Nicholas Marshall,steven14@example.org,2024-09-22,NYC
+C034,Victoria Carter,ajames@example.org,2021-07-04,Los Angeles
+C035,Theresa Day,juliebenson@example.org,2021-08-10,New York
+C036,Robert Jefferson,crystalcarey@example.org,2021-06-29,Los Angeles
+C037,Jack Brown,melissa69@example.net,2020-11-21,Los Angeles
+C038,Tamara Mcneil,wusara@example.org,2022-01-06,LA
+C039,Rachel Wilkerson,brittany40@example.org,2021-08-14,New York
+C040,Katrina Bell,kevinchoi@example.net,2024-01-31,NYC
+C041,Timothy Smith,invalid_email,2020-05-19,Los Angeles
+C042,Russell Koch,logan31@example.net,2022-04-23,San Francisco
+C043,Linda Hines,mitchellkathy@example.com,2023-01-29,San Francisco
+C044,Kelsey Reid,emily70@example.net,2024-03-25,New York
+C045,Brett Price,xrice@example.org,2023-06-06,NYC
+C046,Nathan Burns,tommywebster@example.com,2024-10-25,Los Angeles
+C047,Jeffrey Wade,rebeccadavis@example.com,2020-07-07,San Francisco
+C048,,alexismiles@example.com,2020-01-11,NYC
+C049,Tina Brown,vanessa14@example.com,2022-04-02,LA
+C050,Tanner Turner,myersmanuel@example.net,2023-11-26,SF
+C051,Kimberly Sanchez,teresamurphy@example.com,2020-12-24,LA
+C052,Matthew Stevens,cory22@example.net,2024-12-30,Los Angeles
+C053,Becky Torres,iingram@example.org,2020-01-01,LA
+C054,Travis Gallagher,reginaldgalvan@example.net,2024-03-17,Los Angeles
+C055,Rebecca Anderson,invalid_email,2024-04-07,Los Angeles
+C056,Suzanne Carter,longjohn@example.org,2023-09-16,San Francisco
+C057,Timothy Scott,anthony57@example.net,2021-04-18,LA
+C058,Hannah King,conraddeanna@example.org,2020-03-14,New York
+C059,Samantha Compton,christina98@example.org,2021-06-25,New York
+C060,Matthew Werner,jamesjefferson@example.net,2022-07-07,NYC
+C061,April Martin,parkslori@example.org,2023-01-01,LA
+C062,Joshua Powell,yoneill@example.net,2023-12-07,Los Angeles
+C063,Mary Armstrong,vwilliamson@example.net,2022-04-28,Los Angeles
+C064,,barberkeith@example.org,2024-03-01,NYC
+C065,Christian Murray,jesushall@example.com,2020-09-15,New York
+C066,Timothy Chapman,joseph39@example.com,2022-02-23,San Francisco
+C067,Patricia Conway,invalid_email,2024-05-10,SF
+C068,Terry Hopkins,michelejones@example.net,2021-05-06,San Francisco
+C069,,smithsharon@example.com,2022-09-27,NYC
+C070,Daisy Smith,shieldskevin@example.com,2024-04-04,New York
+C071,Jennifer Griffin,stephanie22@example.net,2021-07-06,New York
+C072,Paul Arellano,zcoleman@example.org,2020-04-03,New York
+C073,Tammy Smith,golsen@example.org,2024-05-15,NYC
+C074,,qanderson@example.org,2023-05-05,New York
+C075,Jason Jacobs,johnsonchelsea@example.org,2021-05-07,NYC
+C076,Anthony Rogers,rodgersdouglas@example.net,2020-01-16,New York
+C077,Kelly Carson,umckenzie@example.net,2021-09-06,New York
+C078,Erin Williamson,shane89@example.com,2023-03-06,Los Angeles
+C079,Jose Hoover,vazquezmichael@example.net,2021-11-25,LA
+C080,,vincent17@example.net,2023-01-21,San Francisco
+C081,Joseph Pratt,knixon@example.net,2022-05-18,San Francisco
+C082,Heather Ward,ktownsend@example.org,2020-06-26,SF
+C083,Sara Kelly,ckelley@example.com,2021-12-27,New York
+C084,Joseph Campbell,invalid_email,2023-11-10,San Francisco
+C085,Alison Allison,kaitlyn84@example.com,2023-04-18,SF
+C086,Jessica Suarez,david24@example.org,2021-03-07,Los Angeles
+C087,Dominic Daniel,perezchristopher@example.org,2023-08-27,SF
+C088,Richard Reed,invalid_email,2021-08-18,Los Angeles
+C089,Timothy Sharp,darren88@example.com,2024-04-18,LA
+C090,Eric Price,caseyrodriguez@example.net,2021-09-06,SF
+C091,Jason Stein,tanyaharmon@example.com,2024-04-28,New York
+C092,Joseph Wong,dblankenship@example.com,2023-05-13,San Francisco
+C093,Rebecca Padilla,waynewatson@example.com,2021-02-15,New York
+C094,Leslie Harris,andrea83@example.org,2023-01-07,LA
+C095,Daryl Woods,kevin04@example.org,2024-10-22,San Francisco
+C096,Janice Cobb,franciskenneth@example.net,2024-11-19,SF
+C097,Elizabeth Davis,gabrielward@example.com,2024-06-17,SF
+C098,Lucas Bowers,hwhite@example.com,2024-01-28,New York
+C099,Holly Stout,leslie74@example.net,2024-03-24,SF
+C100,Derek Reynolds,invalid_email,2020-01-10,New York
+C101,Johnny Larson,wlawrence@example.com,2020-08-06,SF
+C102,,johnpreston@example.com,2020-04-10,New York
+C103,Mathew Mcknight,agonzalez@example.org,2022-10-12,SF
+C104,Stacy Rose,lisalarsen@example.net,2021-04-19,San Francisco
+C105,Paul Thompson,bakeramanda@example.net,2023-01-18,Los Angeles
+C106,Regina Brown,cgarcia@example.com,2022-07-28,Los Angeles
+C107,Elizabeth Garcia,yhebert@example.net,2020-10-14,New York
+C108,Ronald Henderson,sydneybaker@example.net,2020-11-24,Los Angeles
+C109,Sara Rivera,invalid_email,2024-12-27,LA
+C110,Alyssa Johnson,duncanarthur@example.net,2024-04-14,New York
+C111,,jennifer77@example.net,2024-03-24,SF
+C112,Belinda Robertson,qbutler@example.com,2021-06-12,San Francisco
+C113,Rebecca Palmer,gregory63@example.net,2022-04-05,New York
+C114,Amy Skinner,smithrichard@example.net,2020-08-23,Los Angeles
+C115,Mr. Melvin Gray Jr.,bakermark@example.com,2020-11-26,NYC
+C116,Kristina Wood,rollinsmichael@example.org,2024-12-17,New York
+C117,Brianna Garcia,david33@example.net,2024-08-24,SF
+C118,Marilyn Campbell,astephens@example.com,2022-04-04,New York
+C119,Vincent White,kristen40@example.net,2021-04-24,New York
+C120,Kevin Jones,invalid_email,2024-06-21,LA
+C121,Brian Newton,jasminesmith@example.org,2021-01-24,Los Angeles
+C122,,charlesgibson@example.org,2022-11-08,SF
+C123,Robert Thomas,edwardsmith@example.net,2021-04-06,Los Angeles
+C124,Diana Harvey,pdeleon@example.com,2020-09-03,SF
+C125,Amanda Peterson,tina41@example.com,2020-01-31,New York
+C126,Laurie Mcguire,vbrown@example.com,2021-01-06,SF
+C127,Jill Warren,kellygregory@example.net,2021-07-14,NYC
+C128,Jeffrey Powers,alexanderlopez@example.com,2023-12-02,Los Angeles
+C129,Nicole Williams,dweeks@example.net,2020-07-15,NYC
+C130,David Young,simpsonkeith@example.net,2020-05-25,San Francisco
+C131,,walshemily@example.com,2023-09-29,LA
+C132,,ashleyvasquez@example.org,2023-03-12,New York
+C133,Charles Obrien,lewismark@example.com,2022-08-28,San Francisco
+C134,Bruce Petersen,fraziertiffany@example.net,2024-01-07,Los Angeles
+C135,Eric Becker,xtorres@example.org,2020-02-21,NYC
+C136,Renee Scott,spalmer@example.org,2022-10-24,SF
+C137,Nicholas Copeland,invalid_email,2022-05-18,NYC
+C138,Antonio Harris,hendersonmary@example.net,2024-07-27,Los Angeles
+C139,Christopher Kirby,zclark@example.com,2021-07-01,San Francisco
+C140,,jennifermeadows@example.net,2020-02-27,NYC
+C141,Vincent Suarez,mariemcfarland@example.com,2020-04-25,LA
+C142,Daniel Edwards,hrodriguez@example.org,2022-03-10,New York
+C143,Casey Kennedy,vjones@example.net,2020-03-06,SF
+C144,Jack Hanson,victormonroe@example.org,2024-03-15,San Francisco
+C145,Scott Delgado,jacob95@example.org,2022-12-01,SF
+C146,Lisa Green,ortegalaurie@example.com,2023-07-31,Los Angeles
+C147,Diane Lopez,invalid_email,2022-12-13,New York
+C148,Joyce Lewis,invalid_email,2024-05-30,Los Angeles
+C149,Michael Moore,thomas23@example.com,2023-03-05,New York
+C150,John Perez,harperthomas@example.net,2020-07-19,Los Angeles
+C151,Mr. Michael Goodwin,frodgers@example.org,2024-06-22,San Francisco
+C152,Savannah Horton,joannvillarreal@example.org,2022-12-16,LA
+C153,Mr. Michael Bryant,katherinewhite@example.org,2022-02-12,LA
+C154,Jamie Rodriguez,invalid_email,2020-01-19,SF
+C155,Kayla Davis,charlesking@example.org,2020-01-03,Los Angeles
+C156,,johnsonheather@example.net,2023-11-20,NYC
+C157,Emily Byrd,nancy76@example.org,2022-01-28,Los Angeles
+C158,Allen Evans,maureenfrazier@example.com,2023-12-27,New York
+C159,Rachel Greene,haleyjack@example.org,2024-05-01,New York
+C160,Guy Harrison,katherine21@example.org,2023-09-14,Los Angeles
+C161,Emily Morgan,patricia54@example.com,2024-06-25,San Francisco
+C162,Gary Dodson,woodsscott@example.net,2020-07-20,San Francisco
+C163,Justin Cohen,jamesdavila@example.com,2021-03-26,LA
+C164,Phillip Ward,bobby78@example.org,2023-04-06,NYC
+C165,Jason Carpenter,meghan98@example.net,2022-09-28,New York
+C166,,vickilewis@example.net,2022-12-17,Los Angeles
+C167,,melissa62@example.org,2022-01-22,LA
+C168,Emily Grant,lauriemedina@example.com,2024-08-12,SF
+C169,Kelsey Patel,xtorres@example.org,2022-08-18,NYC
+C170,Aaron Smith,vanessa61@example.org,2022-03-11,Los Angeles
+C171,Dale Thompson,nataliemarquez@example.com,2022-02-26,SF
+C172,Paul Jones,patrickjackson@example.net,2022-12-31,New York
+C173,Andrew Trevino,owalls@example.com,2021-01-04,New York
+C174,Maria Smith,rebecca56@example.org,2021-05-09,NYC
+C175,Damon Sims,murrayrobert@example.net,2022-09-10,LA
+C176,David Thomas,ramoschristopher@example.com,2024-09-30,Los Angeles
+C177,Erin Klein,jenniferlewis@example.com,2021-08-11,LA
+C178,Andrew Shaw,carrolllori@example.com,2023-06-17,NYC
+C179,Monique Hood,wilsonsharon@example.com,2021-05-13,LA
+C180,Joshua Wood,rcampbell@example.com,2023-06-16,SF
+C181,James Flores,invalid_email,2023-10-08,NYC
+C182,,jeffrey87@example.com,2022-07-02,LA
+C183,Roy Jimenez,tjones@example.org,2023-01-19,SF
+C184,Isaac Mercado,wdavid@example.net,2024-08-21,NYC
+C185,Wendy Torres,sherrykrueger@example.org,2022-06-14,San Francisco
+C186,Lisa Ellison,jason93@example.com,2021-09-09,Los Angeles
+C187,Jennifer Morales,invalid_email,2023-09-13,San Francisco
+C188,Shannon Dunlap,agarza@example.net,2020-11-03,San Francisco
+C189,David Morrison,eyoung@example.org,2023-04-24,New York
+C190,Michael Beck,invalid_email,2022-07-07,NYC
+C191,Amanda Wood,jamessmith@example.org,2021-12-21,Los Angeles
+C192,John Baker,russotyler@example.com,2021-12-10,New York
+C193,Phyllis Davis,kaitlynross@example.com,2023-10-29,San Francisco
+C194,,samantha30@example.net,2024-02-05,LA
+C195,Jennifer Smith,michellefarmer@example.org,2024-10-13,LA
+C196,Sarah Benjamin,invalid_email,2022-06-05,Los Angeles
+C197,Alexander Sanders,robert78@example.net,2022-09-13,San Francisco
+C198,Robert Ramirez,wayne39@example.org,2020-03-04,SF
+C199,Matthew Miller,marie62@example.org,2023-04-28,San Francisco

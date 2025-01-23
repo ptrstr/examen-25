@@ -1,0 +1,7002 @@
+[
+  {
+    "week_day": "Tue",
+    "start_hour": 0,
+    "hour_duration": 7,
+    "money": -17.86,
+    "fun": -1.44
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": 263.47,
+    "fun": 4.42
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 13,
+    "hour_duration": 9,
+    "money": 213.0,
+    "fun": -2.31
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 12,
+    "hour_duration": 3,
+    "money": 137.79,
+    "fun": 1.66
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 1,
+    "money": -11.6,
+    "fun": 0.93
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 13,
+    "hour_duration": 5,
+    "money": -128.05,
+    "fun": 4.89
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 6,
+    "hour_duration": 9,
+    "money": 485.5,
+    "fun": -3.4
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 14,
+    "hour_duration": 6,
+    "money": 188.72,
+    "fun": -4.56
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 20,
+    "hour_duration": 2,
+    "money": 167.78,
+    "fun": -0.76
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 13,
+    "hour_duration": 6,
+    "money": 181.13,
+    "fun": 1.12
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 9,
+    "hour_duration": 8,
+    "money": 605.62,
+    "fun": -6.57
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 0,
+    "hour_duration": 22,
+    "money": -568.83,
+    "fun": 7.46
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 17,
+    "hour_duration": 5,
+    "money": 439.15,
+    "fun": 1.03
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 14,
+    "hour_duration": 9,
+    "money": 509.14,
+    "fun": -7.55
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 1,
+    "hour_duration": 15,
+    "money": 1170.89,
+    "fun": -8.55
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 20,
+    "hour_duration": 2,
+    "money": -33.08,
+    "fun": 1.59
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 4,
+    "hour_duration": 14,
+    "money": 1054.8,
+    "fun": 10.85
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 2,
+    "hour_duration": 9,
+    "money": -59.34,
+    "fun": 7.81
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 9,
+    "hour_duration": 7,
+    "money": 283.25,
+    "fun": -6.26
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 3,
+    "hour_duration": 2,
+    "money": 119.38,
+    "fun": -0.38
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 1,
+    "hour_duration": 3,
+    "money": 194.57,
+    "fun": 2.01
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 7,
+    "hour_duration": 14,
+    "money": 74.47,
+    "fun": -0.43
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 12,
+    "hour_duration": 4,
+    "money": 215.96,
+    "fun": 2.94
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 9,
+    "hour_duration": 11,
+    "money": -218.13,
+    "fun": 9.3
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 14,
+    "hour_duration": 2,
+    "money": 16.77,
+    "fun": -0.79
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 393.22,
+    "fun": -0.99
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 10,
+    "hour_duration": 7,
+    "money": 654.68,
+    "fun": -7.0
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 9,
+    "hour_duration": 4,
+    "money": 257.6,
+    "fun": 0.8
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 4,
+    "hour_duration": 14,
+    "money": 1281.14,
+    "fun": -11.69
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 4,
+    "hour_duration": 2,
+    "money": 199.58,
+    "fun": 0.53
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 9,
+    "hour_duration": 12,
+    "money": 249.48,
+    "fun": 5.7
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 5,
+    "hour_duration": 15,
+    "money": 41.76,
+    "fun": 11.75
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 7,
+    "hour_duration": 9,
+    "money": 422.52,
+    "fun": 9.0
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 3,
+    "hour_duration": 13,
+    "money": 756.12,
+    "fun": 5.71
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 0,
+    "hour_duration": 20,
+    "money": 360.8,
+    "fun": 14.61
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 18,
+    "hour_duration": 3,
+    "money": 168.04,
+    "fun": 0.32
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 0,
+    "hour_duration": 19,
+    "money": 1597.78,
+    "fun": -1.04
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 3,
+    "hour_duration": 3,
+    "money": 171.33,
+    "fun": -0.61
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 16,
+    "hour_duration": 2,
+    "money": 81.95,
+    "fun": 0.67
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": 242.92,
+    "fun": 0.35
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 1,
+    "hour_duration": 7,
+    "money": 338.84,
+    "fun": 3.12
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 13.95,
+    "fun": -0.01
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 0,
+    "hour_duration": 14,
+    "money": 23.82,
+    "fun": -9.75
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 19,
+    "hour_duration": 3,
+    "money": 277.27,
+    "fun": 1.65
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 64.13,
+    "fun": -0.07
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 0,
+    "hour_duration": 4,
+    "money": 380.34,
+    "fun": 2.47
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 11,
+    "hour_duration": 9,
+    "money": 245.9,
+    "fun": -7.9
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 4,
+    "hour_duration": 18,
+    "money": -118.93,
+    "fun": 6.71
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 8,
+    "hour_duration": 1,
+    "money": 84.36,
+    "fun": 0.95
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 12,
+    "hour_duration": 11,
+    "money": 240.46,
+    "fun": -4.85
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 11,
+    "hour_duration": 5,
+    "money": -80.47,
+    "fun": 1.8
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 14,
+    "hour_duration": 2,
+    "money": 8.03,
+    "fun": -1.15
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 16,
+    "hour_duration": 7,
+    "money": 471.89,
+    "fun": -0.82
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 8,
+    "hour_duration": 6,
+    "money": -46.14,
+    "fun": -0.44
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 15,
+    "hour_duration": 7,
+    "money": 562.56,
+    "fun": -2.64
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 9,
+    "hour_duration": 6,
+    "money": -141.64,
+    "fun": 5.3
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 17,
+    "hour_duration": 1,
+    "money": 88.32,
+    "fun": -0.71
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": 363.29,
+    "fun": 1.74
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 6,
+    "hour_duration": 12,
+    "money": 818.26,
+    "fun": -0.98
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 2,
+    "hour_duration": 6,
+    "money": 381.03,
+    "fun": 3.51
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 13,
+    "hour_duration": 1,
+    "money": -2.21,
+    "fun": -0.87
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 15,
+    "hour_duration": 4,
+    "money": 379.96,
+    "fun": 0.77
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 5,
+    "hour_duration": 2,
+    "money": 63.01,
+    "fun": 1.46
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 15,
+    "hour_duration": 1,
+    "money": 56.68,
+    "fun": 0.9
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 5,
+    "hour_duration": 4,
+    "money": -86.5,
+    "fun": 1.27
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": 151.46,
+    "fun": 0.03
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 3,
+    "hour_duration": 16,
+    "money": 1586.81,
+    "fun": 1.2
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 20,
+    "hour_duration": 2,
+    "money": -23.74,
+    "fun": -0.79
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 7,
+    "hour_duration": 1,
+    "money": 97.62,
+    "fun": -0.39
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 4,
+    "money": 239.82,
+    "fun": -2.72
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 2,
+    "hour_duration": 5,
+    "money": 204.69,
+    "fun": 3.58
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 18,
+    "hour_duration": 4,
+    "money": 131.78,
+    "fun": -0.64
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 60.78,
+    "fun": -0.6
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 0,
+    "hour_duration": 21,
+    "money": 1464.57,
+    "fun": -3.51
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 3,
+    "hour_duration": 17,
+    "money": 712.06,
+    "fun": -8.63
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 5,
+    "hour_duration": 17,
+    "money": 1333.66,
+    "fun": -2.03
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 17,
+    "hour_duration": 4,
+    "money": -14.66,
+    "fun": 1.41
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 3,
+    "money": 212.48,
+    "fun": 1.75
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 18,
+    "hour_duration": 3,
+    "money": 125.79,
+    "fun": -0.32
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 6,
+    "hour_duration": 1,
+    "money": 18.31,
+    "fun": -0.52
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 10,
+    "hour_duration": 6,
+    "money": -14.55,
+    "fun": -3.88
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 20,
+    "hour_duration": 2,
+    "money": -20.02,
+    "fun": 1.46
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": 285.28,
+    "fun": 1.74
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 19,
+    "hour_duration": 2,
+    "money": 190.69,
+    "fun": 1.98
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 16,
+    "money": 139.36,
+    "fun": -3.05
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 14,
+    "hour_duration": 8,
+    "money": 590.94,
+    "fun": 4.46
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 7,
+    "hour_duration": 12,
+    "money": -159.44,
+    "fun": 8.84
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 19,
+    "hour_duration": 3,
+    "money": 37.13,
+    "fun": -2.1
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 3,
+    "hour_duration": 1,
+    "money": 6.03,
+    "fun": -0.51
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": 85.86,
+    "fun": 0.17
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 32.8,
+    "fun": 0.61
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 13,
+    "hour_duration": 8,
+    "money": 39.75,
+    "fun": 5.48
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 17,
+    "hour_duration": 3,
+    "money": 172.87,
+    "fun": -0.66
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 7,
+    "hour_duration": 9,
+    "money": 34.36,
+    "fun": 1.54
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 12,
+    "hour_duration": 7,
+    "money": 384.43,
+    "fun": -0.06
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 7,
+    "hour_duration": 3,
+    "money": 165.7,
+    "fun": 1.57
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 102.28,
+    "fun": -3.69
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 17,
+    "hour_duration": 3,
+    "money": 99.09,
+    "fun": -2.12
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 4,
+    "hour_duration": 11,
+    "money": 562.71,
+    "fun": 6.3
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 19,
+    "hour_duration": 1,
+    "money": 31.72,
+    "fun": -0.93
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 14,
+    "hour_duration": 3,
+    "money": 244.27,
+    "fun": 2.74
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": 272.91,
+    "fun": 1.29
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 2,
+    "hour_duration": 6,
+    "money": 89.01,
+    "fun": -0.63
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 1,
+    "hour_duration": 5,
+    "money": 369.37,
+    "fun": -2.19
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 0,
+    "hour_duration": 6,
+    "money": -172.19,
+    "fun": 5.03
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 18,
+    "money": 936.34,
+    "fun": -16.46
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 11.72,
+    "fun": -0.21
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 5,
+    "hour_duration": 4,
+    "money": 395.84,
+    "fun": -2.95
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 4.46,
+    "fun": 1.0
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 10,
+    "hour_duration": 7,
+    "money": 150.14,
+    "fun": -6.09
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 13,
+    "hour_duration": 2,
+    "money": 58.76,
+    "fun": -1.57
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 20,
+    "hour_duration": 2,
+    "money": 119.63,
+    "fun": 1.1
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 17,
+    "hour_duration": 1,
+    "money": 51.21,
+    "fun": 0.47
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 12,
+    "hour_duration": 9,
+    "money": -314.18,
+    "fun": 8.59
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 17,
+    "hour_duration": 4,
+    "money": -84.99,
+    "fun": 3.97
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 6,
+    "hour_duration": 13,
+    "money": 510.96,
+    "fun": -10.11
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 7,
+    "hour_duration": 5,
+    "money": 221.3,
+    "fun": 4.72
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 17,
+    "hour_duration": 4,
+    "money": -38.09,
+    "fun": 2.81
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 12,
+    "hour_duration": 6,
+    "money": 526.33,
+    "fun": 0.74
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": -33.4,
+    "fun": 1.64
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 11,
+    "hour_duration": 6,
+    "money": 340.75,
+    "fun": 2.43
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 90.02,
+    "fun": 0.33
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 3,
+    "hour_duration": 14,
+    "money": 151.18,
+    "fun": -2.72
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 16,
+    "hour_duration": 5,
+    "money": 47.26,
+    "fun": -4.41
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 10,
+    "hour_duration": 10,
+    "money": 222.28,
+    "fun": 9.3
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 15,
+    "hour_duration": 3,
+    "money": 293.81,
+    "fun": -2.18
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 14,
+    "hour_duration": 5,
+    "money": 441.24,
+    "fun": 2.23
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 12,
+    "hour_duration": 9,
+    "money": 101.68,
+    "fun": -5.27
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 0,
+    "hour_duration": 16,
+    "money": 1535.26,
+    "fun": 15.63
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 8,
+    "hour_duration": 9,
+    "money": 225.99,
+    "fun": -7.98
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 1,
+    "hour_duration": 10,
+    "money": 270.82,
+    "fun": 3.14
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 13,
+    "hour_duration": 5,
+    "money": 452.08,
+    "fun": 0.11
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 3,
+    "hour_duration": 13,
+    "money": 745.33,
+    "fun": -11.59
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": 72.06,
+    "fun": -0.97
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 8,
+    "hour_duration": 15,
+    "money": 1152.37,
+    "fun": -10.66
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 6,
+    "hour_duration": 11,
+    "money": 30.38,
+    "fun": -7.42
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 16,
+    "hour_duration": 2,
+    "money": 171.39,
+    "fun": -0.08
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": 212.29,
+    "fun": -1.21
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 17,
+    "hour_duration": 6,
+    "money": -110.27,
+    "fun": 5.97
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 18,
+    "hour_duration": 2,
+    "money": 119.76,
+    "fun": -0.25
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 3,
+    "hour_duration": 3,
+    "money": 241.98,
+    "fun": 2.98
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 7,
+    "hour_duration": 12,
+    "money": 713.76,
+    "fun": -1.21
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 16,
+    "hour_duration": 1,
+    "money": -20.59,
+    "fun": 0.64
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 16,
+    "hour_duration": 3,
+    "money": -98.93,
+    "fun": 2.48
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 10,
+    "hour_duration": 13,
+    "money": 997.98,
+    "fun": -10.99
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 8,
+    "hour_duration": 10,
+    "money": -116.56,
+    "fun": 6.67
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 72.99,
+    "fun": -0.16
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 12,
+    "hour_duration": 7,
+    "money": 466.29,
+    "fun": 3.77
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 18,
+    "hour_duration": 1,
+    "money": 56.97,
+    "fun": 0.4
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 17,
+    "hour_duration": 3,
+    "money": 169.72,
+    "fun": -2.97
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 19,
+    "money": -2.5,
+    "fun": -18.03
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 18,
+    "hour_duration": 3,
+    "money": 56.61,
+    "fun": -2.37
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 15,
+    "hour_duration": 5,
+    "money": 470.03,
+    "fun": -3.98
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 0,
+    "hour_duration": 7,
+    "money": -64.33,
+    "fun": 3.46
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 8,
+    "hour_duration": 2,
+    "money": 196.92,
+    "fun": -1.13
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 3,
+    "hour_duration": 11,
+    "money": 130.04,
+    "fun": -10.96
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 13,
+    "hour_duration": 1,
+    "money": 30.66,
+    "fun": -0.74
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 19,
+    "hour_duration": 2,
+    "money": 50.96,
+    "fun": -1.74
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 4,
+    "hour_duration": 3,
+    "money": 12.9,
+    "fun": 2.39
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": -78.93,
+    "fun": 2.95
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 11,
+    "hour_duration": 5,
+    "money": -184.73,
+    "fun": 4.27
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 4,
+    "hour_duration": 18,
+    "money": 764.13,
+    "fun": -11.95
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 12,
+    "hour_duration": 8,
+    "money": 543.96,
+    "fun": 7.59
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 84.94,
+    "fun": 0.36
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 9,
+    "hour_duration": 7,
+    "money": 27.94,
+    "fun": -5.41
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 10,
+    "hour_duration": 13,
+    "money": 1236.79,
+    "fun": -7.89
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 80.46,
+    "fun": -1.74
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 13,
+    "hour_duration": 8,
+    "money": 353.75,
+    "fun": -2.83
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 10,
+    "hour_duration": 1,
+    "money": 75.14,
+    "fun": -0.7
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 20,
+    "hour_duration": 2,
+    "money": 14.12,
+    "fun": 0.9
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 10,
+    "hour_duration": 8,
+    "money": 641.74,
+    "fun": 1.0
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 7,
+    "hour_duration": 11,
+    "money": 113.14,
+    "fun": 4.01
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 7,
+    "hour_duration": 10,
+    "money": 801.43,
+    "fun": -7.44
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 12,
+    "hour_duration": 1,
+    "money": 53.46,
+    "fun": -0.23
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 11,
+    "hour_duration": 5,
+    "money": 424.68,
+    "fun": -2.55
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 20,
+    "hour_duration": 2,
+    "money": 71.79,
+    "fun": 0.86
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 11,
+    "hour_duration": 3,
+    "money": 285.57,
+    "fun": 0.86
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 7,
+    "hour_duration": 14,
+    "money": 893.83,
+    "fun": 7.84
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": -11.3,
+    "fun": -0.02
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 2,
+    "hour_duration": 8,
+    "money": 307.81,
+    "fun": 6.01
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 3,
+    "hour_duration": 8,
+    "money": 427.94,
+    "fun": -3.77
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 0,
+    "hour_duration": 4,
+    "money": -3.92,
+    "fun": 3.34
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 5,
+    "hour_duration": 16,
+    "money": 526.0,
+    "fun": -6.92
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 97.2,
+    "fun": -0.58
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 8,
+    "hour_duration": 13,
+    "money": 864.78,
+    "fun": 12.94
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 1,
+    "hour_duration": 3,
+    "money": 24.77,
+    "fun": -1.04
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 17,
+    "hour_duration": 5,
+    "money": 427.97,
+    "fun": 4.57
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 14,
+    "hour_duration": 3,
+    "money": 175.21,
+    "fun": -1.25
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 26.96,
+    "fun": 0.81
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 1,
+    "hour_duration": 6,
+    "money": -56.3,
+    "fun": -1.72
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 15,
+    "hour_duration": 2,
+    "money": 104.82,
+    "fun": 0.75
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 13,
+    "hour_duration": 3,
+    "money": 129.12,
+    "fun": -0.66
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 13,
+    "hour_duration": 7,
+    "money": 203.7,
+    "fun": -4.07
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 9,
+    "hour_duration": 4,
+    "money": 10.72,
+    "fun": -1.66
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 0,
+    "hour_duration": 13,
+    "money": 865.57,
+    "fun": 1.64
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 2,
+    "hour_duration": 19,
+    "money": 122.19,
+    "fun": -1.64
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 18,
+    "hour_duration": 3,
+    "money": 96.14,
+    "fun": -2.5
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 79.43,
+    "fun": 0.69
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 2,
+    "hour_duration": 20,
+    "money": 1114.23,
+    "fun": 11.36
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 12,
+    "hour_duration": 10,
+    "money": 292.81,
+    "fun": 1.9
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 15,
+    "hour_duration": 3,
+    "money": 211.27,
+    "fun": 1.3
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 13,
+    "hour_duration": 1,
+    "money": 84.67,
+    "fun": -0.83
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 1,
+    "hour_duration": 12,
+    "money": 789.72,
+    "fun": -8.66
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 10,
+    "hour_duration": 8,
+    "money": 480.37,
+    "fun": -3.34
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 0,
+    "hour_duration": 6,
+    "money": 298.82,
+    "fun": -4.08
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 17,
+    "hour_duration": 5,
+    "money": -106.39,
+    "fun": 3.35
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 13,
+    "hour_duration": 8,
+    "money": 188.01,
+    "fun": 7.68
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 5,
+    "hour_duration": 7,
+    "money": 353.88,
+    "fun": 4.28
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 3,
+    "hour_duration": 8,
+    "money": 171.0,
+    "fun": 2.43
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 5,
+    "hour_duration": 11,
+    "money": -61.5,
+    "fun": -0.46
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 16,
+    "hour_duration": 3,
+    "money": -19.63,
+    "fun": 1.43
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 3,
+    "hour_duration": 2,
+    "money": 150.44,
+    "fun": -1.5
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 5,
+    "hour_duration": 10,
+    "money": -7.24,
+    "fun": -8.76
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 0,
+    "hour_duration": 14,
+    "money": 289.41,
+    "fun": -3.6
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 13,
+    "hour_duration": 10,
+    "money": 116.71,
+    "fun": 9.87
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 12,
+    "hour_duration": 10,
+    "money": 683.6,
+    "fun": -9.09
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 8,
+    "hour_duration": 15,
+    "money": 787.75,
+    "fun": -5.62
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 13,
+    "hour_duration": 2,
+    "money": 50.6,
+    "fun": 1.1
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 14,
+    "hour_duration": 6,
+    "money": 121.29,
+    "fun": 4.6
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 16,
+    "hour_duration": 1,
+    "money": 51.62,
+    "fun": 0.29
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 185.27,
+    "fun": 1.67
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 10,
+    "hour_duration": 9,
+    "money": 746.19,
+    "fun": -6.33
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 19,
+    "hour_duration": 3,
+    "money": 2.36,
+    "fun": -0.5
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 9,
+    "hour_duration": 5,
+    "money": 83.02,
+    "fun": 0.03
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 3,
+    "hour_duration": 10,
+    "money": 43.92,
+    "fun": 3.68
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 3,
+    "money": 172.7,
+    "fun": -0.19
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 10,
+    "hour_duration": 8,
+    "money": 253.0,
+    "fun": 4.74
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 11,
+    "hour_duration": 7,
+    "money": 172.88,
+    "fun": 2.43
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 81.28,
+    "fun": -0.15
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 4,
+    "hour_duration": 16,
+    "money": 1593.08,
+    "fun": -3.26
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 7,
+    "hour_duration": 2,
+    "money": 186.91,
+    "fun": -0.94
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": -21.89,
+    "fun": -0.45
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 13,
+    "hour_duration": 3,
+    "money": 287.54,
+    "fun": -1.65
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 11,
+    "hour_duration": 8,
+    "money": 38.17,
+    "fun": 2.58
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 6,
+    "hour_duration": 10,
+    "money": 526.82,
+    "fun": -1.37
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 5,
+    "hour_duration": 6,
+    "money": 587.95,
+    "fun": 5.53
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 8,
+    "hour_duration": 13,
+    "money": -157.26,
+    "fun": -4.98
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 10,
+    "hour_duration": 5,
+    "money": 359.78,
+    "fun": -1.98
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 78.99,
+    "fun": -0.67
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 60.25,
+    "fun": -0.25
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 8,
+    "hour_duration": 10,
+    "money": 786.15,
+    "fun": 9.96
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 4,
+    "hour_duration": 3,
+    "money": 108.04,
+    "fun": 0.17
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 4,
+    "hour_duration": 13,
+    "money": 1082.33,
+    "fun": -1.23
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 14,
+    "hour_duration": 6,
+    "money": 448.99,
+    "fun": 0.86
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 92.25,
+    "fun": -0.46
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 58.34,
+    "fun": 0.32
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 16,
+    "hour_duration": 2,
+    "money": 90.29,
+    "fun": 0.87
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": -1.55,
+    "fun": -0.48
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 5,
+    "hour_duration": 3,
+    "money": -8.12,
+    "fun": -2.47
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 17,
+    "hour_duration": 2,
+    "money": -34.26,
+    "fun": -0.01
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 12,
+    "hour_duration": 9,
+    "money": -19.2,
+    "fun": 0.87
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 16,
+    "hour_duration": 4,
+    "money": 192.73,
+    "fun": 3.17
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 83.96,
+    "fun": -0.86
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 7,
+    "hour_duration": 5,
+    "money": 90.55,
+    "fun": -3.39
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 14,
+    "hour_duration": 2,
+    "money": 47.49,
+    "fun": -1.04
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 7,
+    "hour_duration": 1,
+    "money": -16.44,
+    "fun": -0.14
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 12,
+    "hour_duration": 6,
+    "money": 520.93,
+    "fun": -2.1
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 1,
+    "hour_duration": 5,
+    "money": 7.85,
+    "fun": 4.21
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 255.89,
+    "fun": -0.53
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 388.82,
+    "fun": 0.62
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 328.49,
+    "fun": -0.4
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 12,
+    "hour_duration": 1,
+    "money": 6.54,
+    "fun": -0.59
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": 485.43,
+    "fun": -1.41
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 2,
+    "money": 158.6,
+    "fun": -0.1
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 6,
+    "hour_duration": 14,
+    "money": 891.97,
+    "fun": -10.0
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 0,
+    "hour_duration": 6,
+    "money": 129.22,
+    "fun": -1.98
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 14,
+    "hour_duration": 4,
+    "money": 113.99,
+    "fun": 3.48
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 11,
+    "hour_duration": 1,
+    "money": 55.17,
+    "fun": -0.52
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 15,
+    "hour_duration": 1,
+    "money": 57.18,
+    "fun": -0.84
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 11,
+    "hour_duration": 12,
+    "money": -98.62,
+    "fun": 0.68
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 12,
+    "hour_duration": 4,
+    "money": 329.46,
+    "fun": 2.23
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 5,
+    "hour_duration": 6,
+    "money": 172.15,
+    "fun": -4.16
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 0,
+    "hour_duration": 18,
+    "money": 1730.1,
+    "fun": 4.2
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 1,
+    "hour_duration": 22,
+    "money": 254.99,
+    "fun": -4.05
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 16,
+    "hour_duration": 4,
+    "money": 248.89,
+    "fun": 2.98
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 14,
+    "hour_duration": 5,
+    "money": 249.12,
+    "fun": 0.09
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 14,
+    "hour_duration": 6,
+    "money": 521.81,
+    "fun": 4.61
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 8,
+    "hour_duration": 10,
+    "money": 925.02,
+    "fun": -3.13
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 11,
+    "hour_duration": 4,
+    "money": 219.66,
+    "fun": 1.75
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": 42.62,
+    "fun": -0.74
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 4,
+    "hour_duration": 12,
+    "money": 41.63,
+    "fun": 6.02
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 17,
+    "hour_duration": 1,
+    "money": 84.73,
+    "fun": 0.96
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 97.14,
+    "fun": -0.97
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 1,
+    "hour_duration": 8,
+    "money": 20.6,
+    "fun": -2.96
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 11,
+    "hour_duration": 7,
+    "money": -167.89,
+    "fun": 1.58
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 17,
+    "hour_duration": 4,
+    "money": 130.65,
+    "fun": 0.62
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 19,
+    "hour_duration": 2,
+    "money": -13.17,
+    "fun": 0.68
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 15,
+    "hour_duration": 2,
+    "money": 110.89,
+    "fun": -0.22
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 150.82,
+    "fun": -0.35
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 12,
+    "hour_duration": 4,
+    "money": 196.13,
+    "fun": -1.94
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 8,
+    "hour_duration": 7,
+    "money": 26.39,
+    "fun": -2.63
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 6,
+    "hour_duration": 1,
+    "money": 51.32,
+    "fun": 0.85
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 10,
+    "hour_duration": 11,
+    "money": 1003.92,
+    "fun": 6.58
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 0,
+    "hour_duration": 18,
+    "money": -417.74,
+    "fun": 14.14
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 23.02,
+    "fun": -0.39
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 14,
+    "hour_duration": 5,
+    "money": 430.85,
+    "fun": -2.7
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 17,
+    "hour_duration": 1,
+    "money": -15.26,
+    "fun": 0.15
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 11,
+    "hour_duration": 2,
+    "money": 66.3,
+    "fun": -0.13
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 3,
+    "hour_duration": 14,
+    "money": 257.06,
+    "fun": -9.97
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 5,
+    "hour_duration": 12,
+    "money": 19.44,
+    "fun": -7.15
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 15,
+    "hour_duration": 7,
+    "money": 114.25,
+    "fun": 3.14
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 7,
+    "hour_duration": 5,
+    "money": 95.35,
+    "fun": 3.54
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 18,
+    "hour_duration": 4,
+    "money": 379.01,
+    "fun": 2.28
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 14,
+    "hour_duration": 6,
+    "money": 321.03,
+    "fun": -4.15
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": -20.43,
+    "fun": 0.81
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 8,
+    "hour_duration": 5,
+    "money": 354.67,
+    "fun": -1.82
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 8,
+    "hour_duration": 5,
+    "money": 471.58,
+    "fun": -3.76
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 12,
+    "hour_duration": 4,
+    "money": 125.1,
+    "fun": -3.9
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 6,
+    "hour_duration": 14,
+    "money": -159.46,
+    "fun": 4.65
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": 35.07,
+    "fun": 2.68
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": 48.81,
+    "fun": 3.27
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 2,
+    "hour_duration": 7,
+    "money": 309.47,
+    "fun": 4.32
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 78.82,
+    "fun": -0.68
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 32.11,
+    "fun": -0.81
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 7,
+    "hour_duration": 10,
+    "money": 109.12,
+    "fun": 2.46
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 6,
+    "hour_duration": 13,
+    "money": 431.94,
+    "fun": 7.89
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 7,
+    "hour_duration": 12,
+    "money": 468.97,
+    "fun": 9.12
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 14,
+    "hour_duration": 1,
+    "money": -2.73,
+    "fun": -0.58
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 4,
+    "hour_duration": 2,
+    "money": 2.59,
+    "fun": -1.24
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 9,
+    "hour_duration": 1,
+    "money": -6.73,
+    "fun": -0.17
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 1,
+    "hour_duration": 4,
+    "money": 363.43,
+    "fun": 0.46
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 11,
+    "hour_duration": 11,
+    "money": 880.73,
+    "fun": -2.64
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 15,
+    "hour_duration": 6,
+    "money": 219.85,
+    "fun": 0.74
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 17,
+    "hour_duration": 4,
+    "money": -45.45,
+    "fun": -0.28
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 17,
+    "hour_duration": 5,
+    "money": 320.48,
+    "fun": 1.32
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 15,
+    "hour_duration": 3,
+    "money": 243.6,
+    "fun": -2.2
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 8,
+    "hour_duration": 11,
+    "money": 55.99,
+    "fun": -10.57
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 17,
+    "hour_duration": 3,
+    "money": 21.5,
+    "fun": -1.65
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 13,
+    "hour_duration": 2,
+    "money": 2.82,
+    "fun": 1.87
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": 206.47,
+    "fun": 2.17
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 4,
+    "hour_duration": 15,
+    "money": 835.48,
+    "fun": -1.63
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 12,
+    "hour_duration": 1,
+    "money": 66.85,
+    "fun": 0.85
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 7,
+    "hour_duration": 2,
+    "money": 181.74,
+    "fun": 0.2
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 8,
+    "hour_duration": 12,
+    "money": 268.78,
+    "fun": -0.21
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 73.96,
+    "fun": 0.59
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 9.15,
+    "fun": -0.59
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 15,
+    "hour_duration": 1,
+    "money": -11.79,
+    "fun": -0.39
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 11,
+    "hour_duration": 7,
+    "money": 598.19,
+    "fun": 5.9
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 5,
+    "hour_duration": 9,
+    "money": 166.67,
+    "fun": -8.7
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 13,
+    "hour_duration": 4,
+    "money": 311.42,
+    "fun": 3.92
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": -3.8,
+    "fun": -0.62
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 1,
+    "hour_duration": 12,
+    "money": 752.01,
+    "fun": -6.59
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 7,
+    "hour_duration": 6,
+    "money": 577.6,
+    "fun": 3.0
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 0,
+    "hour_duration": 20,
+    "money": 889.5,
+    "fun": -10.76
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 2,
+    "hour_duration": 1,
+    "money": 27.09,
+    "fun": -0.93
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 17,
+    "hour_duration": 4,
+    "money": 163.74,
+    "fun": 1.05
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 17,
+    "hour_duration": 5,
+    "money": 235.04,
+    "fun": 2.99
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 0,
+    "hour_duration": 14,
+    "money": -169.06,
+    "fun": 8.26
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 3,
+    "hour_duration": 15,
+    "money": 1188.45,
+    "fun": -13.45
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 2,
+    "money": -61.27,
+    "fun": 1.16
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 11,
+    "hour_duration": 6,
+    "money": 109.64,
+    "fun": 1.38
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 0,
+    "hour_duration": 17,
+    "money": -165.71,
+    "fun": 6.53
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 12,
+    "hour_duration": 2,
+    "money": 113.44,
+    "fun": -0.97
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 2,
+    "money": 164.25,
+    "fun": -0.19
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 12,
+    "hour_duration": 1,
+    "money": 91.83,
+    "fun": -0.69
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 0,
+    "hour_duration": 15,
+    "money": 48.58,
+    "fun": -8.82
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 0.35,
+    "fun": 0.84
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": -37.99,
+    "fun": 1.4
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 17,
+    "hour_duration": 2,
+    "money": 171.2,
+    "fun": -1.27
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 3,
+    "hour_duration": 4,
+    "money": 342.02,
+    "fun": 3.05
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": -28.54,
+    "fun": 0.62
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 10,
+    "hour_duration": 6,
+    "money": 187.24,
+    "fun": 0.67
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 14,
+    "hour_duration": 8,
+    "money": -79.85,
+    "fun": 2.41
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 12,
+    "hour_duration": 7,
+    "money": 672.06,
+    "fun": 6.81
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 15,
+    "hour_duration": 4,
+    "money": -69.73,
+    "fun": 1.48
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 58.15,
+    "fun": -0.73
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 2,
+    "hour_duration": 2,
+    "money": 29.01,
+    "fun": -1.68
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 1,
+    "hour_duration": 15,
+    "money": 1329.61,
+    "fun": 14.51
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 10,
+    "hour_duration": 3,
+    "money": 296.02,
+    "fun": 2.98
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 4,
+    "hour_duration": 18,
+    "money": -207.91,
+    "fun": 17.55
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 4,
+    "hour_duration": 2,
+    "money": -47.27,
+    "fun": 1.11
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 16,
+    "hour_duration": 2,
+    "money": 193.32,
+    "fun": -1.33
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 4,
+    "hour_duration": 1,
+    "money": 74.01,
+    "fun": 0.19
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 14,
+    "hour_duration": 8,
+    "money": 92.91,
+    "fun": 2.41
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 33.64,
+    "fun": -0.32
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 13,
+    "hour_duration": 3,
+    "money": 4.83,
+    "fun": -2.25
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 1,
+    "hour_duration": 3,
+    "money": -36.32,
+    "fun": -0.24
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 6,
+    "hour_duration": 6,
+    "money": -138.33,
+    "fun": 2.43
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 4,
+    "hour_duration": 12,
+    "money": 86.8,
+    "fun": 4.86
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 17,
+    "hour_duration": 2,
+    "money": 174.93,
+    "fun": -1.95
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 15,
+    "hour_duration": 5,
+    "money": 217.91,
+    "fun": -2.44
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 4,
+    "hour_duration": 6,
+    "money": 464.43,
+    "fun": -5.97
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 10,
+    "hour_duration": 4,
+    "money": 342.84,
+    "fun": -0.42
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 50.73,
+    "fun": -0.43
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 17,
+    "hour_duration": 2,
+    "money": 89.55,
+    "fun": -1.3
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 14,
+    "hour_duration": 2,
+    "money": -18.74,
+    "fun": 0.64
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 12,
+    "hour_duration": 8,
+    "money": 315.24,
+    "fun": -5.43
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 4,
+    "hour_duration": 12,
+    "money": 886.07,
+    "fun": -2.12
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 4,
+    "hour_duration": 16,
+    "money": 876.14,
+    "fun": 14.01
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 307.08,
+    "fun": -2.14
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": -13.96,
+    "fun": -0.17
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 10,
+    "hour_duration": 4,
+    "money": 201.7,
+    "fun": -3.62
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 0,
+    "hour_duration": 18,
+    "money": 83.02,
+    "fun": 17.97
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 6,
+    "hour_duration": 2,
+    "money": 0.59,
+    "fun": -0.12
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 7,
+    "hour_duration": 5,
+    "money": 294.9,
+    "fun": -4.03
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 16,
+    "hour_duration": 3,
+    "money": 23.24,
+    "fun": -0.14
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 8,
+    "hour_duration": 3,
+    "money": 263.14,
+    "fun": 0.76
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": 35.39,
+    "fun": 0.1
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 12,
+    "hour_duration": 2,
+    "money": 194.64,
+    "fun": -1.93
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 6,
+    "hour_duration": 7,
+    "money": 514.88,
+    "fun": -5.72
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 5,
+    "hour_duration": 11,
+    "money": 325.53,
+    "fun": -6.38
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 6,
+    "hour_duration": 7,
+    "money": 473.99,
+    "fun": -2.01
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 12,
+    "hour_duration": 6,
+    "money": 513.47,
+    "fun": 4.0
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 12,
+    "hour_duration": 8,
+    "money": 748.41,
+    "fun": -5.34
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 3,
+    "hour_duration": 16,
+    "money": 1511.64,
+    "fun": -11.27
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 12,
+    "hour_duration": 10,
+    "money": 880.61,
+    "fun": -0.46
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 9,
+    "hour_duration": 9,
+    "money": -153.6,
+    "fun": 8.11
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 3,
+    "hour_duration": 5,
+    "money": 458.26,
+    "fun": 2.16
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 15,
+    "hour_duration": 6,
+    "money": 93.85,
+    "fun": -1.6
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 0,
+    "hour_duration": 13,
+    "money": 847.3,
+    "fun": -1.26
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 12,
+    "hour_duration": 5,
+    "money": 266.56,
+    "fun": 1.34
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 10,
+    "money": -120.47,
+    "fun": 8.92
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 19,
+    "hour_duration": 3,
+    "money": -54.6,
+    "fun": 0.86
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 1,
+    "hour_duration": 8,
+    "money": 526.7,
+    "fun": 0.06
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 11,
+    "hour_duration": 1,
+    "money": 22.52,
+    "fun": 0.72
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 5,
+    "hour_duration": 12,
+    "money": 1026.64,
+    "fun": -10.62
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 14,
+    "hour_duration": 7,
+    "money": 0.36,
+    "fun": 0.1
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 3,
+    "hour_duration": 16,
+    "money": 1292.23,
+    "fun": -5.91
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 6,
+    "hour_duration": 4,
+    "money": 95.76,
+    "fun": -0.43
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 14,
+    "hour_duration": 6,
+    "money": -59.02,
+    "fun": -0.37
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 3,
+    "money": 181.14,
+    "fun": 0.25
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 10,
+    "hour_duration": 7,
+    "money": 428.66,
+    "fun": -6.29
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 5,
+    "hour_duration": 13,
+    "money": 728.71,
+    "fun": -2.59
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 0,
+    "hour_duration": 17,
+    "money": 1059.81,
+    "fun": 6.77
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 10,
+    "hour_duration": 8,
+    "money": -51.78,
+    "fun": 2.22
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 16,
+    "hour_duration": 2,
+    "money": 92.59,
+    "fun": 0.27
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 7,
+    "hour_duration": 1,
+    "money": 80.85,
+    "fun": 0.33
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 13,
+    "hour_duration": 5,
+    "money": 310.99,
+    "fun": 3.55
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 1,
+    "hour_duration": 22,
+    "money": -655.11,
+    "fun": 21.53
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 14,
+    "hour_duration": 3,
+    "money": 80.3,
+    "fun": -2.63
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 10,
+    "hour_duration": 2,
+    "money": 65.72,
+    "fun": -1.49
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 7,
+    "hour_duration": 3,
+    "money": 86.57,
+    "fun": -0.07
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 127.45,
+    "fun": -1.19
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 0,
+    "hour_duration": 23,
+    "money": 1014.52,
+    "fun": -13.35
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 1,
+    "hour_duration": 6,
+    "money": 109.72,
+    "fun": -2.07
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": -17.79,
+    "fun": 0.16
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 12,
+    "hour_duration": 7,
+    "money": 637.26,
+    "fun": -5.89
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 5,
+    "hour_duration": 11,
+    "money": 645.56,
+    "fun": 3.52
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 16,
+    "hour_duration": 6,
+    "money": 574.85,
+    "fun": 0.93
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 62.96,
+    "fun": 0.98
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 9,
+    "hour_duration": 5,
+    "money": -10.58,
+    "fun": -1.2
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 1,
+    "hour_duration": 17,
+    "money": 437.4,
+    "fun": -3.35
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 11,
+    "hour_duration": 1,
+    "money": 87.96,
+    "fun": -0.94
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 10,
+    "hour_duration": 6,
+    "money": 12.05,
+    "fun": 4.59
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 72.11,
+    "fun": 0.99
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 5,
+    "hour_duration": 8,
+    "money": 161.04,
+    "fun": -4.39
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 15,
+    "hour_duration": 1,
+    "money": 21.63,
+    "fun": -0.98
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 4,
+    "hour_duration": 9,
+    "money": 541.97,
+    "fun": -8.53
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 17,
+    "hour_duration": 3,
+    "money": -1.64,
+    "fun": 1.21
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 2,
+    "hour_duration": 20,
+    "money": 1045.65,
+    "fun": 0.85
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 11,
+    "hour_duration": 1,
+    "money": 34.1,
+    "fun": 0.18
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 8,
+    "hour_duration": 7,
+    "money": -148.6,
+    "fun": 4.51
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 5,
+    "hour_duration": 2,
+    "money": 171.3,
+    "fun": 0.99
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 6,
+    "hour_duration": 10,
+    "money": 594.82,
+    "fun": 6.77
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 16,
+    "hour_duration": 1,
+    "money": 65.33,
+    "fun": -0.35
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": -22.86,
+    "fun": 0.45
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 1,
+    "hour_duration": 6,
+    "money": -103.54,
+    "fun": 1.21
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 6,
+    "hour_duration": 14,
+    "money": 1204.39,
+    "fun": -10.1
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 4,
+    "hour_duration": 10,
+    "money": 980.65,
+    "fun": 8.33
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 15,
+    "hour_duration": 8,
+    "money": -93.71,
+    "fun": 5.49
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 14,
+    "hour_duration": 7,
+    "money": 427.11,
+    "fun": -1.16
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 2,
+    "hour_duration": 13,
+    "money": 620.2,
+    "fun": -10.23
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 49.61,
+    "fun": 0.69
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 1,
+    "money": 6.26,
+    "fun": 0.56
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 17,
+    "hour_duration": 5,
+    "money": 482.6,
+    "fun": 1.94
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 20,
+    "hour_duration": 2,
+    "money": 35.41,
+    "fun": 0.06
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 7,
+    "hour_duration": 10,
+    "money": 968.61,
+    "fun": -5.18
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 18,
+    "hour_duration": 1,
+    "money": 1.2,
+    "fun": -0.32
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": -11.54,
+    "fun": 1.07
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": -1.79,
+    "fun": -0.54
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 0,
+    "hour_duration": 22,
+    "money": 837.41,
+    "fun": -18.61
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 4,
+    "hour_duration": 15,
+    "money": 769.8,
+    "fun": 7.09
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 9,
+    "hour_duration": 3,
+    "money": 9.17,
+    "fun": 1.35
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 7,
+    "hour_duration": 4,
+    "money": 327.59,
+    "fun": -2.0
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 10,
+    "hour_duration": 4,
+    "money": -1.29,
+    "fun": 0.84
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 18,
+    "hour_duration": 4,
+    "money": 37.38,
+    "fun": 1.87
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 5,
+    "hour_duration": 10,
+    "money": 814.55,
+    "fun": -3.42
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 6,
+    "hour_duration": 12,
+    "money": -31.12,
+    "fun": -2.69
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 17,
+    "hour_duration": 3,
+    "money": 31.1,
+    "fun": -1.87
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 5,
+    "hour_duration": 9,
+    "money": 283.18,
+    "fun": -0.99
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 0,
+    "hour_duration": 18,
+    "money": 1333.36,
+    "fun": 17.43
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 109.76,
+    "fun": -1.78
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 55.11,
+    "fun": 0.95
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 87.13,
+    "fun": -0.91
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": 85.02,
+    "fun": -0.29
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 14,
+    "hour_duration": 2,
+    "money": -20.82,
+    "fun": -0.6
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 15,
+    "hour_duration": 8,
+    "money": 277.43,
+    "fun": 7.13
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": -13.35,
+    "fun": 0.5
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 3,
+    "hour_duration": 2,
+    "money": 118.01,
+    "fun": 1.13
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 17,
+    "hour_duration": 3,
+    "money": 193.73,
+    "fun": -2.9
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 2,
+    "hour_duration": 6,
+    "money": 484.59,
+    "fun": -4.95
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 11,
+    "hour_duration": 2,
+    "money": 165.6,
+    "fun": -0.43
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 13,
+    "hour_duration": 7,
+    "money": -68.48,
+    "fun": 1.27
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 13,
+    "hour_duration": 10,
+    "money": -23.89,
+    "fun": -8.6
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 14,
+    "hour_duration": 6,
+    "money": 515.6,
+    "fun": 0.5
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 6,
+    "hour_duration": 5,
+    "money": 335.12,
+    "fun": -1.07
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 4,
+    "hour_duration": 4,
+    "money": 99.42,
+    "fun": 2.28
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 26.35,
+    "fun": -1.19
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 7,
+    "hour_duration": 13,
+    "money": 384.78,
+    "fun": -0.35
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 6,
+    "hour_duration": 3,
+    "money": 99.31,
+    "fun": -1.91
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 8,
+    "hour_duration": 9,
+    "money": 458.63,
+    "fun": 2.4
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 15,
+    "hour_duration": 4,
+    "money": 87.86,
+    "fun": 3.05
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": 44.97,
+    "fun": 0.7
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 15,
+    "hour_duration": 4,
+    "money": 377.92,
+    "fun": -1.15
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 8,
+    "hour_duration": 6,
+    "money": -114.47,
+    "fun": 2.94
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 14,
+    "hour_duration": 5,
+    "money": 477.29,
+    "fun": -3.47
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 1.06,
+    "fun": -0.76
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 11,
+    "hour_duration": 12,
+    "money": 158.8,
+    "fun": 5.18
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 11,
+    "hour_duration": 12,
+    "money": 319.58,
+    "fun": -10.88
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 5,
+    "hour_duration": 12,
+    "money": 336.47,
+    "fun": -6.76
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 13,
+    "hour_duration": 4,
+    "money": -143.39,
+    "fun": 3.47
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 86.3,
+    "fun": 0.21
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 17,
+    "hour_duration": 6,
+    "money": 165.12,
+    "fun": 1.17
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 0,
+    "hour_duration": 14,
+    "money": 338.33,
+    "fun": -11.06
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 5,
+    "hour_duration": 5,
+    "money": 388.74,
+    "fun": -1.35
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 44.0,
+    "fun": -0.86
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 11,
+    "hour_duration": 3,
+    "money": -30.17,
+    "fun": 0.42
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 19,
+    "hour_duration": 3,
+    "money": 70.87,
+    "fun": -1.99
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": 146.08,
+    "fun": 1.24
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 3,
+    "hour_duration": 19,
+    "money": 296.55,
+    "fun": 12.83
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 18,
+    "hour_duration": 3,
+    "money": 116.73,
+    "fun": -2.11
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 3,
+    "hour_duration": 17,
+    "money": 1697.37,
+    "fun": 9.07
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 4,
+    "hour_duration": 4,
+    "money": -16.35,
+    "fun": 3.74
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": 136.96,
+    "fun": -0.96
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 2,
+    "hour_duration": 16,
+    "money": 1106.62,
+    "fun": -5.58
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 11,
+    "hour_duration": 4,
+    "money": 85.16,
+    "fun": -3.86
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 2,
+    "hour_duration": 13,
+    "money": 196.23,
+    "fun": -12.03
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": 92.23,
+    "fun": -0.57
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 13,
+    "hour_duration": 7,
+    "money": -107.02,
+    "fun": 6.14
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 12,
+    "hour_duration": 1,
+    "money": 93.14,
+    "fun": 0.65
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 5,
+    "hour_duration": 11,
+    "money": 333.26,
+    "fun": 3.36
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 19,
+    "hour_duration": 3,
+    "money": 247.98,
+    "fun": -2.85
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 17,
+    "hour_duration": 6,
+    "money": 459.25,
+    "fun": 3.93
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 75.19,
+    "fun": 0.9
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 10,
+    "money": 916.03,
+    "fun": -4.87
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 7,
+    "hour_duration": 12,
+    "money": 206.07,
+    "fun": -3.56
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 7,
+    "hour_duration": 1,
+    "money": 2.85,
+    "fun": -0.62
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 12,
+    "hour_duration": 5,
+    "money": -22.15,
+    "fun": -2.36
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 19,
+    "hour_duration": 1,
+    "money": 14.69,
+    "fun": -0.8
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 12,
+    "hour_duration": 8,
+    "money": 67.82,
+    "fun": -7.06
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 3,
+    "hour_duration": 20,
+    "money": 139.71,
+    "fun": 7.36
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 12,
+    "hour_duration": 11,
+    "money": 668.32,
+    "fun": 3.9
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 13,
+    "hour_duration": 3,
+    "money": 299.75,
+    "fun": 0.01
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 12,
+    "hour_duration": 1,
+    "money": 10.16,
+    "fun": 0.44
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 4,
+    "hour_duration": 10,
+    "money": 818.97,
+    "fun": 5.55
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 27.34,
+    "fun": 0.61
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 15,
+    "hour_duration": 3,
+    "money": 246.15,
+    "fun": 1.23
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 11,
+    "hour_duration": 5,
+    "money": -63.44,
+    "fun": 1.49
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 2,
+    "hour_duration": 12,
+    "money": 334.56,
+    "fun": 10.68
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 10,
+    "hour_duration": 7,
+    "money": 527.96,
+    "fun": 1.94
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 2,
+    "hour_duration": 11,
+    "money": 929.09,
+    "fun": -1.14
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 4,
+    "hour_duration": 5,
+    "money": 386.02,
+    "fun": -3.05
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 15,
+    "hour_duration": 6,
+    "money": 595.05,
+    "fun": 3.01
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 31.71,
+    "fun": -0.33
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 7,
+    "hour_duration": 1,
+    "money": 39.84,
+    "fun": -0.65
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 14,
+    "hour_duration": 2,
+    "money": 84.91,
+    "fun": 1.52
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 17,
+    "hour_duration": 5,
+    "money": 257.55,
+    "fun": -0.55
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 12,
+    "hour_duration": 6,
+    "money": 418.16,
+    "fun": 1.69
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 14,
+    "hour_duration": 2,
+    "money": -9.88,
+    "fun": 1.19
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 16,
+    "hour_duration": 2,
+    "money": 38.4,
+    "fun": 1.66
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 19,
+    "hour_duration": 3,
+    "money": 22.04,
+    "fun": 0.53
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 10,
+    "hour_duration": 8,
+    "money": -110.93,
+    "fun": 5.05
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 283.09,
+    "fun": 3.8
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 10,
+    "hour_duration": 11,
+    "money": 208.39,
+    "fun": 4.05
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 12,
+    "hour_duration": 2,
+    "money": 121.37,
+    "fun": 1.5
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 8,
+    "hour_duration": 7,
+    "money": -141.51,
+    "fun": 0.65
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 16,
+    "hour_duration": 3,
+    "money": -65.9,
+    "fun": 1.61
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 1,
+    "hour_duration": 4,
+    "money": 229.64,
+    "fun": 2.46
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 6,
+    "hour_duration": 8,
+    "money": 735.0,
+    "fun": 5.76
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 71.36,
+    "fun": 1.03
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 12,
+    "hour_duration": 4,
+    "money": 36.28,
+    "fun": -2.12
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 11,
+    "hour_duration": 10,
+    "money": 312.15,
+    "fun": -6.24
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 2,
+    "hour_duration": 21,
+    "money": 1957.04,
+    "fun": -10.71
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 13,
+    "hour_duration": 1,
+    "money": 70.46,
+    "fun": 0.6
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 2,
+    "hour_duration": 15,
+    "money": 30.61,
+    "fun": 7.49
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 33.12,
+    "fun": 0.86
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 16,
+    "hour_duration": 4,
+    "money": -80.13,
+    "fun": 0.43
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 0,
+    "hour_duration": 22,
+    "money": 1840.02,
+    "fun": -21.02
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 5,
+    "hour_duration": 10,
+    "money": 158.05,
+    "fun": -0.07
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 11,
+    "hour_duration": 9,
+    "money": 256.86,
+    "fun": 1.31
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 15,
+    "hour_duration": 8,
+    "money": 724.05,
+    "fun": -2.39
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 16,
+    "hour_duration": 2,
+    "money": -1.3,
+    "fun": 1.77
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 6,
+    "money": 339.84,
+    "fun": -5.47
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 18,
+    "hour_duration": 2,
+    "money": 139.32,
+    "fun": 1.32
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": -24.05,
+    "fun": 0.41
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 20,
+    "hour_duration": 2,
+    "money": 40.68,
+    "fun": 0.64
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 8,
+    "hour_duration": 12,
+    "money": 397.88,
+    "fun": -9.71
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 14,
+    "hour_duration": 5,
+    "money": -32.29,
+    "fun": 2.26
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": -13.51,
+    "fun": 0.52
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 3,
+    "hour_duration": 16,
+    "money": 923.0,
+    "fun": 15.92
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 12,
+    "hour_duration": 2,
+    "money": 156.91,
+    "fun": 1.81
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 9.11,
+    "fun": 0.29
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 3,
+    "hour_duration": 17,
+    "money": 638.06,
+    "fun": 2.28
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 1,
+    "hour_duration": 18,
+    "money": 433.62,
+    "fun": -1.03
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 11,
+    "hour_duration": 12,
+    "money": 294.05,
+    "fun": -4.57
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 8,
+    "hour_duration": 10,
+    "money": 347.14,
+    "fun": -9.09
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": 212.67,
+    "fun": -0.69
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 15,
+    "hour_duration": 4,
+    "money": 275.3,
+    "fun": -2.2
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 12,
+    "hour_duration": 8,
+    "money": 380.0,
+    "fun": 4.5
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 18,
+    "hour_duration": 4,
+    "money": 396.81,
+    "fun": 0.96
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 3,
+    "hour_duration": 16,
+    "money": 815.27,
+    "fun": 11.74
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 25.32,
+    "fun": 0.59
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 12,
+    "hour_duration": 10,
+    "money": 830.32,
+    "fun": 5.52
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 31.42,
+    "fun": -0.73
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 1,
+    "hour_duration": 11,
+    "money": 417.28,
+    "fun": -5.57
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 3,
+    "hour_duration": 13,
+    "money": 424.88,
+    "fun": 3.79
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 15,
+    "hour_duration": 8,
+    "money": 578.52,
+    "fun": -2.24
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 18,
+    "hour_duration": 2,
+    "money": 13.92,
+    "fun": 1.3
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 16,
+    "hour_duration": 6,
+    "money": -87.28,
+    "fun": 5.33
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 5,
+    "hour_duration": 7,
+    "money": 447.63,
+    "fun": -2.94
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 0,
+    "hour_duration": 7,
+    "money": 434.3,
+    "fun": 0.36
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 0,
+    "hour_duration": 19,
+    "money": 875.67,
+    "fun": 2.64
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 17,
+    "hour_duration": 5,
+    "money": 445.47,
+    "fun": -0.41
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 14,
+    "hour_duration": 5,
+    "money": 309.41,
+    "fun": 4.62
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 8,
+    "hour_duration": 13,
+    "money": 798.82,
+    "fun": -3.39
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 7,
+    "hour_duration": 12,
+    "money": 70.43,
+    "fun": -10.04
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 13,
+    "hour_duration": 9,
+    "money": -46.42,
+    "fun": 2.53
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 4,
+    "hour_duration": 4,
+    "money": 379.93,
+    "fun": -2.63
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 14,
+    "hour_duration": 9,
+    "money": 311.43,
+    "fun": -1.39
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 0,
+    "hour_duration": 11,
+    "money": 461.72,
+    "fun": 9.19
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 6,
+    "hour_duration": 15,
+    "money": -76.27,
+    "fun": -10.01
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 15,
+    "hour_duration": 3,
+    "money": 185.99,
+    "fun": 2.65
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 2,
+    "hour_duration": 11,
+    "money": 471.76,
+    "fun": -10.19
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 17,
+    "hour_duration": 3,
+    "money": -13.94,
+    "fun": 1.23
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 18,
+    "hour_duration": 4,
+    "money": 261.33,
+    "fun": 2.91
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 6,
+    "hour_duration": 11,
+    "money": 429.9,
+    "fun": 0.72
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 12,
+    "hour_duration": 2,
+    "money": 109.8,
+    "fun": -1.16
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 5,
+    "hour_duration": 3,
+    "money": 251.3,
+    "fun": -1.6
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 13,
+    "hour_duration": 1,
+    "money": 48.44,
+    "fun": 0.83
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 9,
+    "hour_duration": 5,
+    "money": 143.64,
+    "fun": -2.81
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": -129.3,
+    "fun": 4.63
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 4,
+    "hour_duration": 18,
+    "money": -435.22,
+    "fun": 10.46
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 17,
+    "hour_duration": 1,
+    "money": 31.77,
+    "fun": -0.38
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 12,
+    "hour_duration": 7,
+    "money": 254.69,
+    "fun": -2.63
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": -25.57,
+    "fun": -0.24
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 15,
+    "hour_duration": 1,
+    "money": 10.59,
+    "fun": -0.03
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 14,
+    "hour_duration": 7,
+    "money": 451.3,
+    "fun": 6.9
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 10,
+    "hour_duration": 4,
+    "money": 118.16,
+    "fun": -3.02
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 65.12,
+    "fun": 0.43
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 25.28,
+    "fun": 0.28
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 19,
+    "hour_duration": 2,
+    "money": 138.97,
+    "fun": -1.83
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 9,
+    "hour_duration": 12,
+    "money": 156.49,
+    "fun": -11.73
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 3,
+    "hour_duration": 19,
+    "money": 973.21,
+    "fun": -1.09
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 26.25,
+    "fun": -0.86
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 8,
+    "hour_duration": 4,
+    "money": 47.14,
+    "fun": -3.12
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 13,
+    "hour_duration": 3,
+    "money": 224.24,
+    "fun": -1.98
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 19,
+    "hour_duration": 2,
+    "money": 27.16,
+    "fun": 0.91
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 4,
+    "hour_duration": 14,
+    "money": 624.11,
+    "fun": -10.36
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 28.74,
+    "fun": -0.46
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 18,
+    "money": -460.01,
+    "fun": 8.9
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 9,
+    "hour_duration": 8,
+    "money": 644.93,
+    "fun": -6.7
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 12,
+    "hour_duration": 10,
+    "money": 388.16,
+    "fun": 6.45
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 16,
+    "hour_duration": 3,
+    "money": 163.82,
+    "fun": -0.86
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 12,
+    "hour_duration": 5,
+    "money": 30.86,
+    "fun": -1.46
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 3,
+    "hour_duration": 17,
+    "money": 326.55,
+    "fun": -3.55
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 0,
+    "hour_duration": 8,
+    "money": 378.11,
+    "fun": -4.07
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 15,
+    "hour_duration": 4,
+    "money": -62.06,
+    "fun": -0.14
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 146.8,
+    "fun": 1.5
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 14,
+    "hour_duration": 9,
+    "money": 436.62,
+    "fun": 4.74
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 8,
+    "hour_duration": 6,
+    "money": 196.18,
+    "fun": 3.11
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 16,
+    "hour_duration": 2,
+    "money": -47.93,
+    "fun": 0.99
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 0,
+    "hour_duration": 4,
+    "money": 321.97,
+    "fun": -2.57
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": 108.46,
+    "fun": 0.35
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": 357.26,
+    "fun": 3.27
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 19,
+    "hour_duration": 1,
+    "money": 46.4,
+    "fun": -0.2
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 12,
+    "hour_duration": 4,
+    "money": 12.49,
+    "fun": 2.57
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 20,
+    "hour_duration": 2,
+    "money": 128.64,
+    "fun": -1.82
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 3,
+    "hour_duration": 20,
+    "money": -176.6,
+    "fun": 3.1
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 74.39,
+    "fun": -0.87
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 13,
+    "hour_duration": 3,
+    "money": 231.8,
+    "fun": 1.53
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 16,
+    "hour_duration": 7,
+    "money": 66.01,
+    "fun": 0.05
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 15,
+    "hour_duration": 6,
+    "money": 573.59,
+    "fun": -2.31
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 2,
+    "hour_duration": 16,
+    "money": 491.2,
+    "fun": -10.38
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 14,
+    "hour_duration": 8,
+    "money": -39.33,
+    "fun": -5.95
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 14,
+    "hour_duration": 9,
+    "money": 143.45,
+    "fun": -1.34
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 4,
+    "hour_duration": 10,
+    "money": 804.95,
+    "fun": -1.35
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 13,
+    "hour_duration": 9,
+    "money": 364.9,
+    "fun": -8.2
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 5,
+    "hour_duration": 10,
+    "money": -40.47,
+    "fun": 1.15
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 11,
+    "hour_duration": 5,
+    "money": 11.87,
+    "fun": -0.42
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 1,
+    "hour_duration": 16,
+    "money": 1594.57,
+    "fun": -6.11
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 15,
+    "hour_duration": 2,
+    "money": -19.02,
+    "fun": 0.08
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": 353.44,
+    "fun": 4.22
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 17,
+    "hour_duration": 1,
+    "money": 97.36,
+    "fun": 0.63
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 12,
+    "hour_duration": 1,
+    "money": 3.17,
+    "fun": 0.32
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 14,
+    "hour_duration": 1,
+    "money": 47.46,
+    "fun": -0.31
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 4,
+    "hour_duration": 1,
+    "money": 22.03,
+    "fun": 0.47
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 17,
+    "hour_duration": 6,
+    "money": 255.24,
+    "fun": 1.65
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": 86.53,
+    "fun": -0.16
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 15,
+    "hour_duration": 6,
+    "money": 286.28,
+    "fun": 2.25
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 2,
+    "hour_duration": 18,
+    "money": 1703.61,
+    "fun": 16.14
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 10,
+    "hour_duration": 12,
+    "money": 312.3,
+    "fun": 4.12
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 13,
+    "hour_duration": 4,
+    "money": 148.27,
+    "fun": 0.8
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 12,
+    "hour_duration": 6,
+    "money": 548.27,
+    "fun": -5.88
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 6,
+    "hour_duration": 16,
+    "money": -166.63,
+    "fun": 12.64
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 1,
+    "hour_duration": 17,
+    "money": 815.66,
+    "fun": 8.04
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 17,
+    "hour_duration": 6,
+    "money": 72.51,
+    "fun": -2.03
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 9,
+    "hour_duration": 9,
+    "money": 542.88,
+    "fun": 2.74
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 14,
+    "hour_duration": 1,
+    "money": 88.91,
+    "fun": 0.73
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": -45.76,
+    "fun": 1.52
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 8,
+    "hour_duration": 9,
+    "money": 419.46,
+    "fun": 5.16
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 9,
+    "hour_duration": 9,
+    "money": -12.19,
+    "fun": 6.63
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 19,
+    "money": 1618.1,
+    "fun": 18.1
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 0,
+    "hour_duration": 1,
+    "money": 58.22,
+    "fun": 0.23
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": -38.67,
+    "fun": -2.16
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 17,
+    "hour_duration": 4,
+    "money": 339.43,
+    "fun": -2.95
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 13,
+    "hour_duration": 10,
+    "money": 378.77,
+    "fun": 8.37
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 14,
+    "hour_duration": 8,
+    "money": 795.48,
+    "fun": -6.79
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 9,
+    "hour_duration": 6,
+    "money": 353.57,
+    "fun": 0.01
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 3,
+    "hour_duration": 6,
+    "money": 321.36,
+    "fun": 0.02
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 0,
+    "hour_duration": 11,
+    "money": -49.38,
+    "fun": 6.08
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 11,
+    "hour_duration": 12,
+    "money": 209.53,
+    "fun": -4.95
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 3,
+    "hour_duration": 19,
+    "money": 768.19,
+    "fun": 12.27
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": 253.46,
+    "fun": 4.63
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 0,
+    "hour_duration": 7,
+    "money": 547.47,
+    "fun": -4.91
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 19,
+    "hour_duration": 1,
+    "money": 75.04,
+    "fun": -0.37
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 16,
+    "hour_duration": 4,
+    "money": 217.68,
+    "fun": -3.97
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 11,
+    "hour_duration": 1,
+    "money": 70.03,
+    "fun": 0.94
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 9,
+    "hour_duration": 5,
+    "money": 259.46,
+    "fun": 0.15
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 14,
+    "hour_duration": 8,
+    "money": 271.31,
+    "fun": -3.22
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 0,
+    "hour_duration": 9,
+    "money": 508.58,
+    "fun": 5.47
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 10,
+    "hour_duration": 4,
+    "money": 385.51,
+    "fun": -3.55
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 18,
+    "hour_duration": 4,
+    "money": 142.1,
+    "fun": -0.13
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 17,
+    "hour_duration": 2,
+    "money": 136.65,
+    "fun": 1.05
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 9,
+    "hour_duration": 10,
+    "money": -293.64,
+    "fun": 7.45
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 1,
+    "hour_duration": 11,
+    "money": 583.57,
+    "fun": -2.95
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 15,
+    "hour_duration": 8,
+    "money": 175.65,
+    "fun": -0.85
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 15,
+    "hour_duration": 6,
+    "money": 231.35,
+    "fun": -2.2
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 7,
+    "hour_duration": 16,
+    "money": 1530.05,
+    "fun": 9.33
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 15,
+    "hour_duration": 5,
+    "money": -67.69,
+    "fun": 0.81
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 1,
+    "hour_duration": 3,
+    "money": 187.57,
+    "fun": 0.95
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 4,
+    "money": 157.64,
+    "fun": 3.72
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 8,
+    "hour_duration": 1,
+    "money": -7.91,
+    "fun": 0.3
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 1,
+    "hour_duration": 20,
+    "money": 1644.19,
+    "fun": -5.75
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 16,
+    "hour_duration": 6,
+    "money": 464.27,
+    "fun": 0.08
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 7,
+    "hour_duration": 5,
+    "money": 369.55,
+    "fun": -2.91
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 11,
+    "hour_duration": 6,
+    "money": 541.86,
+    "fun": -3.59
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 1,
+    "hour_duration": 5,
+    "money": 17.37,
+    "fun": -4.27
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 13,
+    "hour_duration": 4,
+    "money": -28.16,
+    "fun": -2.23
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 16,
+    "hour_duration": 5,
+    "money": 54.19,
+    "fun": 3.45
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 17,
+    "hour_duration": 6,
+    "money": 418.13,
+    "fun": -4.91
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": 90.99,
+    "fun": 0.01
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 12,
+    "hour_duration": 1,
+    "money": 5.36,
+    "fun": -0.94
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 12,
+    "hour_duration": 10,
+    "money": 143.63,
+    "fun": 2.42
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 11,
+    "hour_duration": 3,
+    "money": 224.72,
+    "fun": -2.8
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 6,
+    "hour_duration": 6,
+    "money": 404.59,
+    "fun": -5.05
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 13,
+    "hour_duration": 5,
+    "money": 437.62,
+    "fun": 4.55
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 2,
+    "hour_duration": 10,
+    "money": 843.31,
+    "fun": -1.42
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 24.32,
+    "fun": -1.82
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 13,
+    "hour_duration": 10,
+    "money": 543.46,
+    "fun": 9.05
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 17,
+    "hour_duration": 4,
+    "money": 267.03,
+    "fun": -3.94
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 15,
+    "hour_duration": 8,
+    "money": 42.11,
+    "fun": 7.49
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 3,
+    "hour_duration": 16,
+    "money": 42.73,
+    "fun": -11.98
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 6,
+    "hour_duration": 9,
+    "money": 473.77,
+    "fun": 3.44
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 19,
+    "hour_duration": 2,
+    "money": 17.55,
+    "fun": -0.29
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 15,
+    "hour_duration": 3,
+    "money": 295.7,
+    "fun": -0.86
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 6,
+    "hour_duration": 4,
+    "money": 162.26,
+    "fun": -0.2
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 7,
+    "hour_duration": 11,
+    "money": -199.5,
+    "fun": 3.69
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 11,
+    "hour_duration": 6,
+    "money": 520.68,
+    "fun": 2.0
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 5,
+    "hour_duration": 5,
+    "money": 162.36,
+    "fun": 0.02
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 9,
+    "hour_duration": 14,
+    "money": 221.55,
+    "fun": 9.11
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 2,
+    "hour_duration": 2,
+    "money": 2.31,
+    "fun": 1.93
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 17,
+    "hour_duration": 6,
+    "money": 149.89,
+    "fun": 0.71
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 11,
+    "hour_duration": 11,
+    "money": -36.39,
+    "fun": -4.45
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 82.47,
+    "fun": -0.3
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": -10.3,
+    "fun": -1.15
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 18,
+    "hour_duration": 1,
+    "money": 70.3,
+    "fun": -0.19
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 1,
+    "hour_duration": 13,
+    "money": 1076.05,
+    "fun": 6.14
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 4,
+    "hour_duration": 13,
+    "money": 377.31,
+    "fun": 7.29
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 2,
+    "hour_duration": 10,
+    "money": 188.6,
+    "fun": -4.95
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 3,
+    "hour_duration": 18,
+    "money": 1147.75,
+    "fun": 10.35
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 4,
+    "hour_duration": 6,
+    "money": -104.12,
+    "fun": 1.23
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 5,
+    "hour_duration": 15,
+    "money": 190.89,
+    "fun": 11.65
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 8,
+    "hour_duration": 13,
+    "money": 984.55,
+    "fun": 2.41
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 1,
+    "hour_duration": 2,
+    "money": 70.47,
+    "fun": 1.29
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 12,
+    "hour_duration": 1,
+    "money": 60.17,
+    "fun": -0.78
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 3,
+    "hour_duration": 14,
+    "money": 1141.8,
+    "fun": 1.85
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 13.83,
+    "fun": 0.96
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 10,
+    "hour_duration": 6,
+    "money": -48.22,
+    "fun": 0.19
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 8,
+    "hour_duration": 6,
+    "money": 250.77,
+    "fun": -0.58
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": -19.3,
+    "fun": 0.39
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 14,
+    "hour_duration": 3,
+    "money": 171.03,
+    "fun": -0.44
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": -19.64,
+    "fun": 0.83
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 1,
+    "hour_duration": 6,
+    "money": 24.87,
+    "fun": 5.55
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 0,
+    "hour_duration": 12,
+    "money": 60.39,
+    "fun": -5.09
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 17,
+    "hour_duration": 1,
+    "money": 94.02,
+    "fun": 0.71
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 17,
+    "hour_duration": 6,
+    "money": 158.14,
+    "fun": -2.03
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 65.97,
+    "fun": -0.19
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 11,
+    "hour_duration": 9,
+    "money": 184.21,
+    "fun": 2.23
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 9,
+    "hour_duration": 3,
+    "money": 278.85,
+    "fun": -2.75
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 5,
+    "hour_duration": 15,
+    "money": 575.89,
+    "fun": -14.34
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 17,
+    "hour_duration": 5,
+    "money": 475.47,
+    "fun": 1.8
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 9,
+    "hour_duration": 1,
+    "money": 14.29,
+    "fun": 0.32
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 145.37,
+    "fun": -0.9
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": -11.26,
+    "fun": -0.13
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 2,
+    "hour_duration": 12,
+    "money": 517.94,
+    "fun": 10.35
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 9,
+    "hour_duration": 4,
+    "money": 399.21,
+    "fun": -3.7
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 42.18,
+    "fun": -0.98
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 6,
+    "hour_duration": 14,
+    "money": 607.43,
+    "fun": -12.43
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 4,
+    "hour_duration": 14,
+    "money": 454.42,
+    "fun": -1.6
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 0,
+    "hour_duration": 20,
+    "money": 280.64,
+    "fun": -5.5
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 18,
+    "hour_duration": 4,
+    "money": 133.92,
+    "fun": -2.32
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 3,
+    "hour_duration": 20,
+    "money": 81.37,
+    "fun": -17.56
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 34.21,
+    "fun": -0.41
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 7,
+    "hour_duration": 11,
+    "money": 410.99,
+    "fun": 3.07
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 1,
+    "hour_duration": 20,
+    "money": 1923.2,
+    "fun": -12.28
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 7,
+    "hour_duration": 13,
+    "money": 1258.56,
+    "fun": 9.13
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 4,
+    "hour_duration": 12,
+    "money": 312.95,
+    "fun": -5.32
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 16,
+    "hour_duration": 4,
+    "money": 244.71,
+    "fun": -0.46
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 3,
+    "hour_duration": 9,
+    "money": 419.45,
+    "fun": 0.31
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": -102.52,
+    "fun": 3.98
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 17,
+    "hour_duration": 6,
+    "money": 438.99,
+    "fun": -5.43
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 2,
+    "hour_duration": 14,
+    "money": -22.1,
+    "fun": 3.13
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 2,
+    "hour_duration": 7,
+    "money": 227.97,
+    "fun": -4.21
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 3,
+    "hour_duration": 17,
+    "money": 3.9,
+    "fun": 9.33
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 15,
+    "hour_duration": 8,
+    "money": 712.8,
+    "fun": 0.3
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 17,
+    "hour_duration": 2,
+    "money": 126.94,
+    "fun": -1.61
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": -20.64,
+    "fun": -0.84
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 7,
+    "hour_duration": 15,
+    "money": -222.6,
+    "fun": 9.78
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 7,
+    "hour_duration": 16,
+    "money": 1300.58,
+    "fun": -15.19
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 15,
+    "hour_duration": 7,
+    "money": -14.54,
+    "fun": 1.51
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 8,
+    "hour_duration": 2,
+    "money": 31.38,
+    "fun": -0.66
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 37.02,
+    "fun": 0.11
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 66.55,
+    "fun": 0.67
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 9,
+    "hour_duration": 3,
+    "money": 70.93,
+    "fun": 2.83
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 2,
+    "hour_duration": 5,
+    "money": 291.36,
+    "fun": -3.51
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 16,
+    "hour_duration": 3,
+    "money": 11.9,
+    "fun": -0.5
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": -95.61,
+    "fun": 3.91
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 5,
+    "hour_duration": 5,
+    "money": 91.41,
+    "fun": 4.77
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 14,
+    "hour_duration": 2,
+    "money": 136.19,
+    "fun": 0.06
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 14,
+    "hour_duration": 8,
+    "money": 193.7,
+    "fun": -2.02
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 16,
+    "hour_duration": 1,
+    "money": 27.79,
+    "fun": 0.98
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": 292.39,
+    "fun": -0.46
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 3,
+    "hour_duration": 1,
+    "money": 75.05,
+    "fun": -0.51
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 13,
+    "hour_duration": 4,
+    "money": 23.87,
+    "fun": -3.49
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 4,
+    "hour_duration": 9,
+    "money": 549.48,
+    "fun": -5.36
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 16,
+    "hour_duration": 1,
+    "money": 19.65,
+    "fun": -0.52
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 14,
+    "hour_duration": 2,
+    "money": 114.02,
+    "fun": -1.65
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 3,
+    "hour_duration": 20,
+    "money": 172.62,
+    "fun": -13.06
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 32.06,
+    "fun": 0.41
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 357.32,
+    "fun": -1.34
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 15,
+    "hour_duration": 3,
+    "money": -63.98,
+    "fun": 1.62
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 1,
+    "hour_duration": 16,
+    "money": 1356.0,
+    "fun": 12.34
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 307.04,
+    "fun": 3.53
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 13,
+    "hour_duration": 6,
+    "money": 232.34,
+    "fun": -0.11
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 4,
+    "hour_duration": 16,
+    "money": 1473.84,
+    "fun": -8.08
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 75.09,
+    "fun": 0.45
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 14,
+    "hour_duration": 1,
+    "money": -19.93,
+    "fun": 0.47
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 17,
+    "hour_duration": 4,
+    "money": -27.1,
+    "fun": 0.94
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 8,
+    "hour_duration": 6,
+    "money": 106.24,
+    "fun": 0.32
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 2,
+    "hour_duration": 10,
+    "money": 885.06,
+    "fun": -6.69
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 18,
+    "hour_duration": 3,
+    "money": 239.2,
+    "fun": -2.86
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 65.99,
+    "fun": 0.68
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 15,
+    "hour_duration": 5,
+    "money": 341.77,
+    "fun": -0.37
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 17,
+    "hour_duration": 3,
+    "money": 11.13,
+    "fun": 2.76
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 6,
+    "hour_duration": 10,
+    "money": 706.95,
+    "fun": 1.88
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 0,
+    "hour_duration": 8,
+    "money": 692.49,
+    "fun": -4.73
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 24.21,
+    "fun": 0.52
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 14,
+    "hour_duration": 7,
+    "money": 500.83,
+    "fun": -6.07
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 9.13,
+    "fun": -0.18
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 16,
+    "hour_duration": 3,
+    "money": 134.19,
+    "fun": -2.84
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 5,
+    "hour_duration": 1,
+    "money": 45.67,
+    "fun": 0.38
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 5,
+    "hour_duration": 6,
+    "money": 559.24,
+    "fun": 3.29
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 1,
+    "hour_duration": 21,
+    "money": 1654.77,
+    "fun": 16.14
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 18,
+    "hour_duration": 1,
+    "money": 84.48,
+    "fun": -0.16
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 2,
+    "hour_duration": 20,
+    "money": 1431.49,
+    "fun": -9.06
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 18,
+    "hour_duration": 5,
+    "money": 404.35,
+    "fun": 2.73
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 15,
+    "hour_duration": 3,
+    "money": 98.35,
+    "fun": 1.74
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 15,
+    "hour_duration": 6,
+    "money": -99.51,
+    "fun": 1.28
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 7,
+    "hour_duration": 8,
+    "money": 796.12,
+    "fun": 5.51
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 5,
+    "hour_duration": 11,
+    "money": 137.99,
+    "fun": -9.66
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 1,
+    "hour_duration": 20,
+    "money": 1534.18,
+    "fun": -2.35
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 12,
+    "hour_duration": 9,
+    "money": 391.83,
+    "fun": 2.88
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 41.59,
+    "fun": 0.81
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 16,
+    "hour_duration": 1,
+    "money": 53.13,
+    "fun": 0.62
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 328.96,
+    "fun": 0.1
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 7,
+    "hour_duration": 13,
+    "money": 430.54,
+    "fun": -12.74
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 2,
+    "hour_duration": 20,
+    "money": 134.53,
+    "fun": 16.34
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 15,
+    "hour_duration": 8,
+    "money": 361.22,
+    "fun": 6.18
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 7,
+    "hour_duration": 4,
+    "money": 231.79,
+    "fun": -0.07
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 14,
+    "hour_duration": 4,
+    "money": 310.65,
+    "fun": 3.96
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 97.04,
+    "fun": -0.69
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 6,
+    "hour_duration": 3,
+    "money": -15.23,
+    "fun": 0.6
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 10,
+    "hour_duration": 5,
+    "money": 402.92,
+    "fun": -0.13
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 12,
+    "hour_duration": 11,
+    "money": 565.38,
+    "fun": -4.13
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": -25.32,
+    "fun": 0.62
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 1,
+    "hour_duration": 16,
+    "money": 1386.11,
+    "fun": 11.46
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 0,
+    "hour_duration": 13,
+    "money": -40.7,
+    "fun": 1.49
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 11,
+    "hour_duration": 5,
+    "money": 227.45,
+    "fun": -4.48
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 3,
+    "hour_duration": 13,
+    "money": 350.21,
+    "fun": 7.77
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 9,
+    "hour_duration": 3,
+    "money": 9.5,
+    "fun": -0.11
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 14,
+    "hour_duration": 1,
+    "money": 25.63,
+    "fun": -0.01
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 0,
+    "hour_duration": 6,
+    "money": -65.86,
+    "fun": -1.98
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 1,
+    "hour_duration": 12,
+    "money": 351.35,
+    "fun": 6.58
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 7,
+    "hour_duration": 9,
+    "money": 158.94,
+    "fun": -5.89
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 4,
+    "hour_duration": 3,
+    "money": -61.66,
+    "fun": 2.45
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 5.16,
+    "fun": -0.68
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 9,
+    "hour_duration": 1,
+    "money": 23.51,
+    "fun": -0.85
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 0,
+    "hour_duration": 5,
+    "money": 364.6,
+    "fun": -3.29
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 13,
+    "hour_duration": 8,
+    "money": -15.08,
+    "fun": -5.7
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 3,
+    "hour_duration": 19,
+    "money": 1706.81,
+    "fun": 11.61
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 31.99,
+    "fun": -1.19
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 19,
+    "hour_duration": 1,
+    "money": 50.66,
+    "fun": 0.63
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 16,
+    "hour_duration": 1,
+    "money": 32.69,
+    "fun": -0.98
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 0,
+    "hour_duration": 2,
+    "money": 20.43,
+    "fun": -1.49
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 15,
+    "hour_duration": 1,
+    "money": 62.22,
+    "fun": -0.64
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 18,
+    "hour_duration": 4,
+    "money": -70.01,
+    "fun": 2.82
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 150.27,
+    "fun": 0.32
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 7,
+    "hour_duration": 3,
+    "money": 214.22,
+    "fun": 2.2
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 11,
+    "hour_duration": 6,
+    "money": 245.5,
+    "fun": 4.56
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 9,
+    "hour_duration": 3,
+    "money": 88.48,
+    "fun": 0.49
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 9,
+    "hour_duration": 1,
+    "money": 98.02,
+    "fun": 0.03
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 2,
+    "hour_duration": 19,
+    "money": 758.79,
+    "fun": 11.03
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 2,
+    "hour_duration": 20,
+    "money": 1960.27,
+    "fun": -13.46
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 16,
+    "hour_duration": 5,
+    "money": 310.33,
+    "fun": 0.28
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 11,
+    "hour_duration": 2,
+    "money": 55.51,
+    "fun": -1.73
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 52.36,
+    "fun": -0.91
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 2,
+    "hour_duration": 2,
+    "money": -58.11,
+    "fun": 1.15
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 5,
+    "hour_duration": 7,
+    "money": 517.14,
+    "fun": -1.29
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 2,
+    "hour_duration": 8,
+    "money": 633.88,
+    "fun": -4.37
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 13,
+    "hour_duration": 6,
+    "money": 41.03,
+    "fun": -1.5
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 197.97,
+    "fun": 0.24
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 16,
+    "hour_duration": 1,
+    "money": 71.34,
+    "fun": -0.55
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 11,
+    "hour_duration": 11,
+    "money": 606.0,
+    "fun": 9.17
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 14,
+    "hour_duration": 2,
+    "money": 183.89,
+    "fun": 1.06
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 14,
+    "hour_duration": 7,
+    "money": 550.92,
+    "fun": 3.92
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 4,
+    "hour_duration": 18,
+    "money": 1225.5,
+    "fun": -2.16
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 3,
+    "hour_duration": 12,
+    "money": 752.98,
+    "fun": -8.9
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 6,
+    "hour_duration": 6,
+    "money": 235.73,
+    "fun": -3.86
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": 74.98,
+    "fun": 1.9
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 9,
+    "hour_duration": 9,
+    "money": 164.84,
+    "fun": -0.97
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 14,
+    "hour_duration": 5,
+    "money": 234.69,
+    "fun": -3.34
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 5,
+    "hour_duration": 15,
+    "money": 1156.74,
+    "fun": -1.22
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 12,
+    "hour_duration": 5,
+    "money": -8.77,
+    "fun": 2.01
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 11,
+    "hour_duration": 3,
+    "money": 232.21,
+    "fun": -2.94
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 1,
+    "hour_duration": 12,
+    "money": -163.36,
+    "fun": 9.32
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 10,
+    "hour_duration": 8,
+    "money": 79.38,
+    "fun": -5.79
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 9,
+    "hour_duration": 5,
+    "money": 189.83,
+    "fun": 0.93
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 14,
+    "hour_duration": 4,
+    "money": 105.8,
+    "fun": 0.86
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 16,
+    "hour_duration": 1,
+    "money": -28.95,
+    "fun": 0.62
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 9,
+    "hour_duration": 7,
+    "money": 187.67,
+    "fun": 5.49
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 10,
+    "hour_duration": 1,
+    "money": 29.6,
+    "fun": -0.35
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 16,
+    "hour_duration": 2,
+    "money": 193.31,
+    "fun": -1.14
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 10,
+    "hour_duration": 3,
+    "money": 293.92,
+    "fun": 1.67
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 13,
+    "hour_duration": 3,
+    "money": 114.09,
+    "fun": -0.58
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 13,
+    "hour_duration": 7,
+    "money": 533.19,
+    "fun": 5.3
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 16,
+    "hour_duration": 1,
+    "money": 27.38,
+    "fun": 0.97
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 3,
+    "hour_duration": 15,
+    "money": 1340.1,
+    "fun": -9.62
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 3,
+    "money": 131.74,
+    "fun": -0.46
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 11,
+    "hour_duration": 10,
+    "money": 120.69,
+    "fun": -9.39
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 10,
+    "hour_duration": 1,
+    "money": 17.05,
+    "fun": 0.58
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 15,
+    "hour_duration": 5,
+    "money": 416.73,
+    "fun": 2.09
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 6,
+    "hour_duration": 13,
+    "money": 392.01,
+    "fun": 9.45
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 11,
+    "hour_duration": 2,
+    "money": 70.12,
+    "fun": 0.88
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 0,
+    "hour_duration": 18,
+    "money": 1652.95,
+    "fun": -0.2
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 0,
+    "hour_duration": 3,
+    "money": -61.95,
+    "fun": 0.58
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 2,
+    "hour_duration": 10,
+    "money": 116.29,
+    "fun": -6.46
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 12,
+    "hour_duration": 5,
+    "money": -91.92,
+    "fun": 1.21
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 17.84,
+    "fun": -0.82
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 3,
+    "hour_duration": 7,
+    "money": 574.18,
+    "fun": 3.21
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 9,
+    "hour_duration": 8,
+    "money": 770.85,
+    "fun": -0.97
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 184.18,
+    "fun": -0.95
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 2,
+    "hour_duration": 11,
+    "money": 277.13,
+    "fun": 4.47
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 18,
+    "hour_duration": 4,
+    "money": -4.54,
+    "fun": 3.75
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 13,
+    "hour_duration": 6,
+    "money": 223.66,
+    "fun": -5.86
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": 34.42,
+    "fun": -0.29
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 21,
+    "hour_duration": 2,
+    "money": 148.04,
+    "fun": -1.77
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 12,
+    "hour_duration": 4,
+    "money": 322.98,
+    "fun": 0.13
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 11,
+    "hour_duration": 9,
+    "money": 738.3,
+    "fun": -8.24
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 17,
+    "hour_duration": 1,
+    "money": 13.91,
+    "fun": -1.0
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 1,
+    "hour_duration": 3,
+    "money": 13.02,
+    "fun": 0.62
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 5,
+    "hour_duration": 14,
+    "money": 1354.09,
+    "fun": 8.14
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 4,
+    "hour_duration": 3,
+    "money": 299.9,
+    "fun": -1.67
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": -8.95,
+    "fun": -0.3
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 10,
+    "hour_duration": 7,
+    "money": 672.12,
+    "fun": -2.09
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 13,
+    "hour_duration": 9,
+    "money": 645.21,
+    "fun": -3.77
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 16,
+    "hour_duration": 3,
+    "money": -30.51,
+    "fun": -0.77
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 20,
+    "hour_duration": 2,
+    "money": 149.67,
+    "fun": -0.35
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 19,
+    "hour_duration": 4,
+    "money": 285.69,
+    "fun": -2.87
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": 30.73,
+    "fun": 0.29
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 7,
+    "hour_duration": 13,
+    "money": 1284.29,
+    "fun": -2.08
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 20,
+    "hour_duration": 1,
+    "money": -9.14,
+    "fun": -0.23
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 12,
+    "hour_duration": 3,
+    "money": 201.73,
+    "fun": -0.84
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 5,
+    "hour_duration": 2,
+    "money": 197.09,
+    "fun": 0.17
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 93.95,
+    "fun": 0.64
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 13,
+    "hour_duration": 6,
+    "money": 140.91,
+    "fun": 1.78
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 10,
+    "hour_duration": 11,
+    "money": 781.11,
+    "fun": -1.86
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 5,
+    "hour_duration": 8,
+    "money": 647.85,
+    "fun": 2.27
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 18,
+    "hour_duration": 3,
+    "money": 145.79,
+    "fun": 2.02
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 20,
+    "hour_duration": 3,
+    "money": 18.73,
+    "fun": 0.76
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 16,
+    "hour_duration": 7,
+    "money": 105.88,
+    "fun": -2.88
+  },
+  {
+    "week_day": "Tue",
+    "start_hour": 14,
+    "hour_duration": 7,
+    "money": 19.7,
+    "fun": -2.23
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 16,
+    "hour_duration": 2,
+    "money": 27.81,
+    "fun": -1.6
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 11,
+    "hour_duration": 4,
+    "money": 156.08,
+    "fun": -0.76
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 6,
+    "hour_duration": 5,
+    "money": 265.25,
+    "fun": 2.91
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 8,
+    "hour_duration": 2,
+    "money": -55.69,
+    "fun": 1.43
+  },
+  {
+    "week_day": "Fri",
+    "start_hour": 3,
+    "hour_duration": 11,
+    "money": -135.61,
+    "fun": 5.83
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 0,
+    "hour_duration": 17,
+    "money": 263.94,
+    "fun": -14.92
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 8,
+    "hour_duration": 12,
+    "money": 765.99,
+    "fun": 11.79
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 16,
+    "hour_duration": 1,
+    "money": -4.47,
+    "fun": -0.1
+  },
+  {
+    "week_day": "Sun",
+    "start_hour": 14,
+    "hour_duration": 5,
+    "money": 403.42,
+    "fun": 4.48
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "week_day": "Thu",
+    "start_hour": 6,
+    "hour_duration": 13,
+    "money": 635.83,
+    "fun": -10.21
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 2,
+    "hour_duration": 19,
+    "money": 1770.65,
+    "fun": -5.33
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 2,
+    "hour_duration": 14,
+    "money": 231.11,
+    "fun": -1.85
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 2,
+    "hour_duration": 6,
+    "money": 25.07,
+    "fun": 4.89
+  },
+  {
+    "week_day": "Mon",
+    "start_hour": 1,
+    "hour_duration": 21,
+    "money": 142.27,
+    "fun": -5.56
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 21,
+    "hour_duration": 1,
+    "money": 39.7,
+    "fun": -0.71
+  },
+  {
+    "week_day": "Wed",
+    "start_hour": 12,
+    "hour_duration": 3,
+    "money": 105.7,
+    "fun": -1.95
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 5,
+    "hour_duration": 8,
+    "money": 144.87,
+    "fun": 0.98
+  },
+  {
+    "week_day": "Thu",
+    "start_hour": 22,
+    "hour_duration": 1,
+    "money": -1.98,
+    "fun": 0.7
+  },
+  {
+    "week_day": "Sat",
+    "start_hour": 6,
+    "hour_duration": 11,
+    "money": 1042.27,
+    "fun": 7.91
+  }
+]
