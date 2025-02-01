@@ -12,6 +12,10 @@ public:
     {
         ESC = SDLK_ESCAPE,
         T = SDLK_t,
+        LEFT = SDLK_LEFT,
+        RIGHT = SDLK_RIGHT,
+        UP = SDLK_UP,
+        DOWN = SDLK_DOWN,
     };
     
 public:

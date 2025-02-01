@@ -59,16 +59,20 @@ int main(int argc, char* argv[])
     float dx = 0.019;
     float dy = 0.0128;
     
-    float angleDeg = 0.0f;
+    float angleX = 0.0f, angleY = 0.0f;
     
     // Tableau non constant de la couleur
     GLfloat onlyColorTriVertices[] = {
-        0.0, 0.0, 1.0,
-        0.0, 1.0, 0.0,
+        1.0, 0.0, 0.0,
+        1.0, 0.0, 0.0,
         1.0, 0.0, 0.0
     };
     
     BasicShapeElements cube(cubeVertices, sizeof(cubeVertices), cubeIndexes, sizeof(cubeIndexes));
+    cube.enableAttribute(0, 3, 6 * sizeof(float), 0);
+    cube.enableAttribute(1, 3, 6 * sizeof(float), 3 * sizeof(float));
+
+    BasicShapeElements cylinder(cubeVertices, sizeof(cubeVertices), cubeIndexes, sizeof(cubeIndexes));
     cube.enableAttribute(0, 3, 6 * sizeof(float), 0);
     cube.enableAttribute(1, 3, 6 * sizeof(float), 3 * sizeof(float));
 
@@ -88,9 +92,19 @@ int main(int argc, char* argv[])
         
         shaderProgram.use();
         
-        angleDeg += 0.5f;
+        if (w.getKey(Window::Key::LEFT))
+            angleX -= 1.f;
+        if (w.getKey(Window::Key::RIGHT))
+            angleX += 1.f;
+        if (w.getKey(Window::Key::UP))
+            angleY -= 1.f;
+        if (w.getKey(Window::Key::DOWN))
+            angleY += 1.f;
 
-        glm::mat4 model = glm::rotate(glm::mat4(1.0f), glm::radians(angleDeg), glm::vec3(0.1f, 1.0f, 0.1f));
+
+        glm::mat4 rotModel = glm::rotate(glm::mat4(1.0f), glm::radians(angleX), glm::vec3(0.0f, 1.0f, 0.0f));
+        rotModel = glm::rotate(rotModel, glm::radians(angleY), glm::vec3(1.0f, 0.0f, 0.0f));
+        
 
         glm::mat4 view = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, -0.5f, -2.0f));
 
@@ -106,9 +120,47 @@ int main(int argc, char* argv[])
 
         glUniformMatrix4fv(v, 1, GL_FALSE, value_ptr(view));
         glUniformMatrix4fv(p, 1, GL_FALSE, value_ptr(projection));
-        glUniformMatrix4fv(m, 1, GL_FALSE, value_ptr(model));
+
+        glm::mat4 cubeModel;
         
+        // top
+        cubeModel = glm::scale(rotModel, glm::vec3(1.5, 0.05, 1));
+        cubeModel = glm::translate(cubeModel, glm::vec3(0, 5, 0));
+        glUniformMatrix4fv(m, 1, GL_FALSE, value_ptr(cubeModel));
         cube.draw(GL_TRIANGLES, sizeof(cubeVertices));
+
+        // long side A
+        cubeModel = glm::scale(rotModel, glm::vec3(1.5, 0.5, 0.05));
+        cubeModel = glm::translate(cubeModel, glm::vec3(0, 0, 9.5));
+        glUniformMatrix4fv(m, 1, GL_FALSE, value_ptr(cubeModel));
+        cube.draw(GL_TRIANGLES, sizeof(cubeVertices));
+
+        // long side B
+        cubeModel = glm::scale(rotModel, glm::vec3(1.5, 0.5, 0.05));
+        cubeModel = glm::translate(cubeModel, glm::vec3(0, 0, -9.5));
+        glUniformMatrix4fv(m, 1, GL_FALSE, value_ptr(cubeModel));
+        cube.draw(GL_TRIANGLES, sizeof(cubeVertices));
+
+        // short side A
+        cubeModel = glm::scale(rotModel, glm::vec3(0.05, 0.5, 1));
+        cubeModel = glm::translate(cubeModel, glm::vec3(14.5, 0, 0));
+        glUniformMatrix4fv(m, 1, GL_FALSE, value_ptr(cubeModel));
+        cube.draw(GL_TRIANGLES, sizeof(cubeVertices));
+
+        // short side B
+        cubeModel = glm::scale(rotModel, glm::vec3(0.05, 0.5, 1));
+        cubeModel = glm::translate(cubeModel, glm::vec3(-14.5, 0, 0));
+        glUniformMatrix4fv(m, 1, GL_FALSE, value_ptr(cubeModel));
+        cube.draw(GL_TRIANGLES, sizeof(cubeVertices));
+
+        float poss[] = {-0.5, 0, 0.5};
+
+        for (float pos : poss) {
+            glm::mat4 model = glm::translate(rotModel, glm::vec3(pos, 0.25, 0));
+            model = glm::scale(model, glm::vec3(0.2, 0.25, 0.2));
+            glUniformMatrix4fv(m, 1, GL_FALSE, value_ptr(model));
+            cylinder.draw(GL_TRIANGLES, sizeof(cubeVertices));
+        }
 
         w.swap();
         w.pollEvent();

@@ -1,0 +1,4 @@
+q1: change res to 4k 3k  in imhex FLAGJT4IEUCITY
+q2: xor: FL4GG3DXORL0L
+q3: lsb on 2 bits: FLAGFL4GLsB
+q4: 

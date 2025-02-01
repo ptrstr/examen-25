@@ -106,7 +106,7 @@ bool Window::getKey(Key k)
 {
     // Utilise un patron de consommation pour détecter au moment qu'on appuis.
     bool state = m_keys[k];
-    m_keys[k] = false;
+    //m_keys[k] = false;
     return state;
 }
 
